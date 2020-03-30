@@ -7,6 +7,8 @@ import pandas as pd
 import numpy as np
 import datetime
 import matplotlib.pyplot as plt
+import os
+import sys
 
 import requests
 from bs4 import BeautifulSoup
@@ -115,6 +117,11 @@ for coin in coinwarz.index:
         if coin in result.index:
             result.loc[coin, ['tag','algorithm','block_time','difficulty','nethash_scraped']] = coinwarz.loc[coin]
 check_missing(result)
+try:
+	os.chdir(r"C:\Users\Admin\Documents\Burgie\2e_Master\Thesis\sustainable_blockchain")
+except: 
+    print("Something wrong with specified directory. Exception- ", sys.exc_info()) 
+
 
 file = 'data_analysis/data/mineable_100_' + date.today().strftime("%m-%d-%Y") + '.csv'
 
