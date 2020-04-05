@@ -1,0 +1,91 @@
+﻿Number,Type,Release date,Source,Accessed on,Manufacturer,Product,Hash rate in Mh/s,Power in W,Efficiency in Mh/J
+1,GPU,19.03.2012,https://www.cryptocompare.com/mining/amd/radeon-hd-7870-ethereum-mining/,5/7/2018,AMD,Radeon HD 7870,10,175,0.06
+,,3/19/2012,https://en.wikipedia.org/wiki/Radeon_HD_7000_Series,5/7/2018,,,,,
+2,GPU,22.03.2012,https://en.wikipedia.org/wiki/GeForce_600_series,5/7/2018,NVIDIA,GeForce GTX 680,15,195,0.08
+,,3/22/2012,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+3,GPU,16.08.2012,https://en.wikipedia.org/wiki/GeForce_600_series,5/7/2018,NVIDIA,GeForce GTX 660 Ti,12,150,0.08
+,,8/16/2012,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+4,GPU,09.10.2012,https://en.wikipedia.org/wiki/GeForce_600_series,5/7/2018,NVIDIA,GeForce GTX 650 Ti,10,110,0.09
+,,10/9/2012,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+5,GPU,01.04.2013,https://www.cryptocompare.com/mining/amd/radeon-r9-hd-7990-ethereum-mining/,5/7/2018,AMD,Radeon R9 HD 7990,36,375,0.10
+,,4/1/2013,https://en.wikipedia.org/wiki/Radeon_HD_7000_Series,5/7/2018,,,,,
+6,GPU,23.05.2013,https://en.wikipedia.org/wiki/GeForce_700_series,5/7/2018,NVIDIA ,GeForce GTX 780,20,250,0.08
+,,5/23/2013,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+7,GPU,30.05.2013,https://en.wikipedia.org/wiki/GeForce_700_series,5/7/2018,NVIDIA,GeForce GTX 770,15,230,0.07
+,,5/30/2013,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+8,GPU,25.06.2013,https://en.wikipedia.org/wiki/GeForce_700_series,5/7/2018,NVIDIA,GeForce GTX 760,15,170,0.09
+,,6/25/2013,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+9,GPU,24.10.2013,http://www.sapphiretech.com/page.asp?IDno=5371&lang=eng,5/7/2018,AMD,Sapphire R9 290X,31,290,0.11
+,,10/24/2013,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+,,10/24/2013,https://www.amazon.com/gp/product/B00HJOXUKC/ref=as_li_tl?ie=UTF8&tag=jitendradhg13-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00HJOXUKC&linkId=e0d7f5edd5168764bddde4d995694839,5/7/2018,,,,,
+10,GPU,07.11.2013,https://en.wikipedia.org/wiki/GeForce_700_series,5/7/2018,NVIDIA,GeForce GTX 780 Ti,22,250,0.09
+,,11/7/2013,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+11,GPU,19.12.2013,https://www.cryptocompare.com/mining/amd/radeon-r9-290x-tri-x-ethereum-mining/,5/7/2018,AMD,Radeon R9 290x Tri-X,22,290,0.08
+,,12/19/2013,http://www.pcgameshardware.de/AMD-Radeon-Grafikkarte-255597/Tests/Sapphire-Radeon-R9-290-Tri-X-OC-Test-1102085/,5/7/2018,,,,,
+12,GPU,18.02.2014,https://www.cryptocompare.com/mining/nvidia/nvidia-geforce-gtx-750-ti-ethereum-mining/,5/7/2018,NVIDIA,GeForce GTX 750 Ti ,6,40,0.15
+,,2/18/2014,https://en.wikipedia.org/wiki/GeForce_700_series,5/7/2018,,,,,
+13,GPU,18.02.2014,https://en.wikipedia.org/wiki/GeForce_700_series,5/7/2018,NVIDIA,GeForce GTX Titan Black,21,250,0.08
+,,2/18/2014,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+14,GPU,08.04.2014,https://www.cryptocompare.com/mining/amd/radeon-r9-295x2-ethereum-mining/,5/7/2018,AMD,Radeon R9 295x2,46,500,0.09
+,,4/8/2014,https://en.wikipedia.org/wiki/AMD_Radeon_Rx_200_series,5/7/2018,,,,,
+15,GPU,18.09.2014,https://en.wikipedia.org/wiki/GeForce_900_series,5/7/2018,NVIDIA,GeForce GTX 980,20,165,0.12
+,,9/18/2014,https://cryptomining24.net/gpu-table-with-hashrate/,5/7/2018,,,,,
+16,GPU,18.09.2014,https://www.cryptocompare.com/mining/nvidia/nvidia-geforce-gtx-970-ethereum-mining/,5/7/2018,NVIDIA,GeForce GTX 970,16,145,0.11
+,,9/18/2014,https://en.wikipedia.org/wiki/GeForce_900_series,5/7/2018,,,,,
+17,GPU,22.01.2015,https://en.wikipedia.org/wiki/GeForce_900_series,5/7/2018,NVIDIA,GeForce GTX 960,11,120,0.09
+,,1/22/2015,https://cryptomining24.net/gpu-table-with-hashrate/#nvidia,5/7/2018,,,,,
+18,GPU,17.03.2015,https://en.wikipedia.org/wiki/GeForce_900_series,5/7/2018,NVIDIA,GeForce GTX Titan X,40,250,0.16
+,,3/17/2015,https://www.buriedone.com/hashrates.html,5/7/2018,,,,,
+19,GPU,01.06.2015,https://en.wikipedia.org/wiki/AMD_Radeon_Rx_300_series,5/7/2018,AMD,Radeon R9 390,32,275,0.12
+,,6/1/2015,https://cryptomining24.net/gpu-table-with-hashrate/#nvidia,5/7/2018,,,,,
+20,GPU,01.06.2015,https://en.wikipedia.org/wiki/AMD_Radeon_Rx_300_series,5/7/2018,AMD,Radeon R9 390X,34,275,0.12
+,,6/1/2015,https://cryptomining24.net/gpu-table-with-hashrate/#nvidia,5/7/2018,,,,,
+21,GPU,01.06.2015,https://www.cryptocompare.com/mining/amd/strix-radeon-r7-370-ethereum-mining/,5/7/2018,AMD,Radeon Strix R7 370,12,110,0.11
+,,6/1/2015,https://en.wikipedia.org/wiki/AMD_Radeon_Rx_300_series,5/7/2018,,,,,
+22,GPU,01.06.2015,https://www.cryptocompare.com/mining/amd/radeon-r9-380-ethereum-mining/,5/7/2018,AMD,Radeon R9 380,17,190,0.09
+,,6/1/2015,https://en.wikipedia.org/wiki/AMD_Radeon_Rx_300_series,5/7/2018,,,,,
+23,GPU,01.06.2015,https://www.cryptocompare.com/mining/amd/radeon-r9-fury-x-ethereum-mining/,5/7/2018,AMD,Radeon R9 Fury X,24,275,0.09
+,,6/1/2015,https://en.wikipedia.org/wiki/AMD_Radeon_Rx_300_series,5/7/2018,,,,,
+24,GPU,02.06.2015,https://en.wikipedia.org/wiki/GeForce_900_series,5/7/2018,NVIDIA,GeForce GTX 980 Ti,24,250,0.09
+,,6/2/2015,https://cryptomining24.net/gpu-table-with-hashrate/#nvidia,5/7/2018,,,,,
+25,GPU,01.08.2015,https://www.cryptocompare.com/mining/amd/radeon-r9-nano-ethereum-mining/,5/7/2018,AMD,Radeon R9 Nano,23,175,0.13
+,,8/1/2015,https://en.wikipedia.org/wiki/AMD_Radeon_Rx_300_series,5/7/2018,,,,,
+26,GPU,01.11.2015,https://www.cryptocompare.com/mining/amd/radeon-r9-380x-ethereum-mining/,5/7/2018,AMD,Radeon R9 380x,18,200,0.09
+,,11/1/2015,https://en.wikipedia.org/wiki/AMD_Radeon_Rx_300_series,5/7/2018,,,,,
+27,GPU,27.05.2016,https://www.buriedone.com/hashrates.html,5/7/2018,NVIDIA,GeForce GTX 1080  ,27,180,0.15
+,,5/27/2016,https://en.wikipedia.org/wiki/GeForce_10_series,5/7/2018,,,,,
+28,GPU,01.06.2016,https://www.cryptocompare.com/mining/amd/radeon-rx-480-ethereum-mining/,5/7/2018,AMD,Radeon Rx 480,25,150,0.17
+,,6/1/2016,https://en.wikipedia.org/wiki/AMD_Radeon_400_series,5/7/2018,,,,,
+29,GPU,10.06.2016,https://www.techradar.com/news/best-mining-gpu,5/7/2018,NVIDIA,GeForce GTX 1070,30,150,0.20
+,,6/10/2016,https://en.wikipedia.org/wiki/GeForce_10_series,5/7/2018,,,,,
+30,GPU,01.08.2016,https://www.buriedone.com/hashrates.html,5/7/2018,AMD,Radeon RX 460,13,75,0.17
+,,8/1/2016,https://en.wikipedia.org/wiki/AMD_Radeon_400_series,5/7/2018,,,,,
+31,GPU,01.08.2016,https://www.cryptocompare.com/mining/amd/radeon-rx-470-ethereum-mining/,5/7/2018,AMD,Radeon RX 470 ,24,150,0.16
+,,8/1/2016,https://en.wikipedia.org/wiki/AMD_Radeon_400_series,5/7/2018,,,,,
+32,GPU,18.08.2016,https://www.buriedone.com/hashrates.html,5/7/2018,NVIDIA,GeForce GTX 1060,24,120,0.20
+,,8/18/2016,https://en.wikipedia.org/wiki/GeForce_10_series,5/7/2018,,,,,
+33,GPU,25.10.2016,https://www.buriedone.com/hashrates.html,5/7/2018,NVIDIA,Radeon GTX 1050 Ti,15,75,0.20
+,,10/25/2016,https://en.wikipedia.org/wiki/GeForce_10_series,5/7/2018,,,,,
+34,GPU,10.03.2017,https://www.buriedone.com/hashrates.html,5/7/2018,NVIDIA,GeForce GTX 1080 Ti,37,250,0.15
+,,3/10/2017,https://en.wikipedia.org/wiki/GeForce_10_series,5/7/2018,,,,,
+35,GPU,06.04.2017,https://www.techspot.com/article/1438-ethereum-mining-gpu-benchmark/%20&%20,5/7/2018,NVIDIA,GeForce Titan Xp,31,250,0.12
+,,4/6/2017,http://www.nvidia.de/graphics-cards/geforce/pascal/titan-xp/,5/7/2018,,,,,
+,,4/6/2017,https://en.wikipedia.org/wiki/GeForce_10_series,5/7/2018,,,,,
+36,GPU,18.04.2017,https://www.cryptocompare.com/mining/amd/asus-rog-strix-radeon-rx-570-o4g/,5/7/2018,AMD,Radeon RX 570,22,115,0.19
+,,4/18/2017,https://en.wikipedia.org/wiki/AMD_Radeon_500_series,5/7/2018,,,,,
+37,GPU,18.04.2017,https://www.buriedone.com/hashrates.html,5/7/2018,AMD,Radeon RX 580,30,185,0.16
+,,4/18/2017,https://en.wikipedia.org/wiki/AMD_Radeon_500_series,5/7/2018,,,,,
+38,GPU,20.04.2017,https://www.buriedone.com/hashrates.html,5/7/2018,AMD,Radeon RX 550,11,50,0.22
+,,4/20/2017,https://en.wikipedia.org/wiki/AMD_Radeon_500_series,5/7/2018,,,,,
+39,GPU,01.07.2017,https://www.buriedone.com/hashrates.html,5/7/2018,AMD,Radeon RX Vega Frontier Edition,37,300,0.12
+,,7/1/2017,https://www.theverge.com/circuitbreaker/2017/6/27/15882684/amd-radeon-vega-frontier-edition-gpu-price-now-available,5/7/2018,,,,,
+40,GPU,14.08.2017,https://www.buriedone.com/hashrates.html,5/7/2018,AMD,Radeon RX Vega 64,40,295,0.14
+,,8/14/2017,https://en.wikipedia.org/wiki/AMD_RX_Vega_series,5/7/2018,,,,,
+41,GPU,14.08.2017,https://www.buriedone.com/hashrates.html,5/7/2018,AMD,Radeon RX Vega 64 Liquid,44,345,0.13
+,,8/14/2017,https://en.wikipedia.org/wiki/AMD_RX_Vega_series,5/7/2018,,,,,
+42,GPU,28.08.2017,https://www.buriedone.com/hashrates.html,5/7/2018,AMD,Radeon RX Vega 56,37,210,0.18
+,,8/28/2017,https://en.wikipedia.org/wiki/AMD_RX_Vega_series,5/7/2018,,,,,
+43,GPU,02.11.2017,https://www.buriedone.com/hashrates.html,5/7/2018,NVIDIA,GeForce GTX 1070 Ti,32,150,0.21
+,,11/2/2017,https://en.wikipedia.org/wiki/GeForce_10_series,5/7/2018,,,,,
+44,GPU,13.12.2017,https://www.techradar.com/news/nvidias-titan-v-is-a-massively-powerful-gpu-for-cryptocurrency-mining,5/7/2018,NVIDIA,GTX Titan V,77,237,0.32
+,,12/13/2017,https://www.justcryptonews.com/313/nvidia-titan-v-best-gpu-ethereum-mining-if-you-afford-it-video,5/7/2018,,,,,
