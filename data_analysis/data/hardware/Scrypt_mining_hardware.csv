@@ -1,0 +1,497 @@
+﻿Type,Model,kH/s,C,M,V,W,Miner,Config,Notes (OS/TEMPS/DRIVERS/HARDWARE/FIRMWARE)
+AMD GPU,4350,10,680,450,0.900 ?,,cgminer 3.3.4,-I 9 -g 1 -w 128 --thread-concurrency 2048,"Ubuntu 12.04 LTS, APP SDK v2.7, Catalyst 13.1"
+AMD GPU,4770,116,830,850,,,cgminer 3.7.2,-I 11 -g 1 -w 128 --thread-concurrency 1024,"Windows 7 x64, 81C"
+AMD GPU,4850,100,625,993,,,cgminer 2.11.4,-I 15 -g 1,"Windows 7 x64, 71C"
+AMD GPU,4850,110,650,993,,110,GUIMiner-scrypt v0.03,-I 16 -g 1 -w 128 --thread-concurrency 3200,
+AMD GPU,4850,126,750,750,,115,GUIMiner-scrypt v0.04,-I 17 -g 1 -w 256 --thread-concurrency 3136,Windows Vista x64
+AMD GPU,"4870, ASUS",135,750,900,Y,,cgminer 3.4.0,-I 17 -g 1 -w 128 --thread-concurrency 6400,"Windows 7 x64, 75C, Catalyst 13.1"
+AMD GPU,4870,142,750,900,,,Reaper,worksize 128 gpu_thread_concurrency 4192,"Catalyst 13.1, SDK 2.8"
+AMD GPU,"4890, 113-B79002-103",145,835,575,1.312 ?,,cgminer 2.7.5,-I 15 -g 1 -w 128 --thread-concurrency 6400,"Winows 7 x64, 72C, Catalyst 12.4, SDK 2.7"
+AMD GPU,5450,21,891,875,,,cgminer 2.11.3,-I 18 -w 256 --shaders 80,"Arch Linux, Catalyst 13.1-4"
+AMD GPU,5570,88,775,790,,,Reaper v13 Beta 4,aggression 15 threads_per_gpu 2 worksize 128 sharethreads 24 gpu_thread_concurrency 4096,"Windows 8 x64, Catalyst 12.8, http://i.imgur.com/tgHGr2I.png"
+AMD GPU,"5670, Gigabyte",100,850,1000,,,cgminer 2.11.4,-I 16 -g 2 -w 128 --thread-concurrency 3048,
+AMD GPU,5750. Sapphire 512MB,135,770,1210,1.1,,cgminer 3.4.3,-I 11 --thread-concurrency 3008,"Linux, Catalyst 12.8, SDK 2.7"
+AMD GPU,"5750, Sapphire",153,710,1160,,,cgminer 3.7.2,-I 20,"Celeron E3200, Asrock G41, onboard GPU in use"
+AMD GPU,5750,196,925,1150,,,cgminer 3.0.0,-I 18 -g 1 -w 256 --thread-concurrency 6016,Windows 7 x64
+AMD GPU,5770,167,725,1100,,,cgminer 2.6.1,-I 18 -w 256 --shaders 800,Debian Linux
+AMD GPU,"5770, MSI",185,915,1250,1.250 N,,bfgminer 3.2.1,-I 18,"Windows 7, 90C, Catalyst 13.9, MSI HAWK with only one fan"
+AMD GPU,5770,210,910,1250,,,Reaper V13 Beta 4,aggression 17 threads_per_gpu 4,Windows 7 x64
+AMD GPU,"5770, HIS",213,935,1380,Y,,GUIMiner-scrypt v0.02,-I 17 --thread-concurrency 7680,"Windows 7 x64, 80C"
+AMD GPU,"5830, Gigabyte",281,960,1000,1.11,,cgminer 3.3.0,-I 18 -g 2 -thread-conccurency 6016,"Windows 7 x64, 69C"
+AMD GPU,5830,282,950,1250,,,cgminer 2.6.4,-I 20 -g 1,
+AMD GPU,5830,303,917,1250,,,cgminer 2.11.3,-I 20 -g 1 --thread-concurrency 5600,"Ubuntu Server 12.04 x64, Catalyst 11.11, APP SDK 2.5,"
+AMD GPU,"5830, XFX",308,955,1338,1.183 Y,,cgminer 3.1.0,-I 18 --thread-concurrency 5600,"75C, i3-530 @ 4GHz (20.5khash/s), 10GB RAM, using a HIS 5830 Cooler and Liquidmetal Pad (an SMT capacitor exploded into flames)"
+AMD GPU,"5850, XFX",325,765,1125,,,cgminer 3.1.0,-I 19 -g 1 -w 256 --thread-concurrency 5824,"Windows 7, 72C, Catalyst 13.2, SDK 2.7, Xeon x5460"
+AMD GPU,"5850, MSI",341,775,1000,1,,Reaper,aggression 20 worksize 128 sharethreads 48 gpu_thread_concurrency 12000,"Windows 7 x64, Catalyst 12.1, SDK 2.5"
+AMD GPU,"5850, Sapphire Vapor-X",420,1000,1100,,,GUIMiner-scrypt v0.04,--thread-concurrency 5824,
+AMD GPU,5870,226,850,1200,,,Reaper v13 Beta,,
+AMD GPU,"5870, XFX",310,920,1250,,,Reaper v13 Beta,threads_per_gpu 5,
+AMD GPU,5870,338,725,1200,,,cgminer 2.6.1,-I 18 -w 256 --shaders 1600,Debian Linux
+AMD GPU,5870,400,850,1200,,,cgminer 2.11.3,-I 18 -g 1 -w 256 --thread-concurrency 7168,
+AMD GPU,"5870, 113-C07801-102",405,900,1300,0.950 Y,,Reaper v13 Beta 4,aggression 16 sharethreads 8 gpu_thread_concurrency 8000,"Windows 7 x86, 80C, Catalyst v13.4"
+AMD GPU,"5870, EAH5870",420,900,1200,1.1,153,cgminer 2.11.4,-I 12 -g 1 -w 256 --thread-concurrency 8000,"Windows 7, Catalyst 12.10, DFI Lanparty X48"
+AMD GPU,5870,422,925,1225,,,Reaper v13 Beta,gpu_thread_concurrency 7168,
+AMD GPU,"5870, CGAX-58724DPO",426,900,1365,,,cgminer 3.4.3,-I 20 -g 1 -w 256 --thread-concurrency 7168,"Windows 7 x64, 87C"
+AMD GPU,"5870, Sapphire",435,900,1300,,,"GUIMiner-scrypt, cgminer 2.11.3",-I 18 -g 1 -w 256 --thread-concurrency 7500,Windows 7 x64
+AMD GPU,5870,440,970,1200,,,Reaper v13 Beta,threads_per_gpu 5,Reference
+AMD GPU,5870,442,960,1300,,,Reaper v13 Beta,threads_per_gpu 5 gpu_thread_concurrency 7500,
+AMD GPU,5970,750,900,1100,,,Reaper v13 Beta,aggression 17 threads_per_gpu 5,
+AMD GPU,"5970, reference",750,1000,1024,1.500 U,,GUIMiner-scrypt,,"Windows 7, 76C"
+AMD GPU,5970,760,800,1000,,,Reaper v13 Beta,aggression 16 sharethreads 10 gpu_thread_concurrency 5632,
+AMD GPU,"5970, MSI",760,830,1200,,,cgminer,-I 20,89C
+AMD GPU,5970,800,844,1250,,,cgminer 2.11.3,-I 20 -g 1 -w 128 --thread-concurrency 8000,"Ubuntu Server 12.04 x64, Catalyst 11.11, APP SDK 2.5"
+AMD GPU,6320,5,600,600,,,cgminer 2.11.3,-I 9,
+AMD GPU,6450,16,720,1000,,,Reaper v13 Beta 4,aggression 20 worksize 64 threads_per_gpu 2 lookup_gap 2 sharethreads 6 gpu_thread_concurrency 640,
+AMD GPU,6450,23,625,667,,,cgminer 2.11.3,-I 9 -g 1 -w 64,http://i.imgur.com/WMX3iI6.png
+AMD GPU,"6450, SAPPHIRE",28,625,1334,,,Reaper v1.3 Beta 4,worksize 64 aggression 18 threads_per_gpu 1 sharethreads 6 lookup_gap 2 gpu_thread_concurrency 1280,"Windows 7 x86, Pentium 4"
+AMD GPU,6570,55,650,900,,,cgminer 2.10.5,-I 16 -w 256 --thread-concurrency 5760,
+AMD GPU,"6570, 100323L",100,900,650,1.050 ?,60,cgminer 3.5.0,-I 14 -g 1 --shaders 480,"Windows 7 x64, 75C, Catalyst 13.1, unlocked Athlon II X3 445, 16GB G.skill RAM, WD Caviar 320GB HDD, 430W Corsair Builder, ASUS M4A87TD/USB3"
+AMD GPU,6670,127,900,1000,,,cgminer 3.0.1,-I 18 -g 1 -w 256 --thread-concurrency 2400,
+AMD GPU,"6750, HD-675X-ZDFR",94,700,735,,,cgminer 3.1.1,-I 16,
+AMD GPU,6750,111,952,952,,,cgminer 3.3.1,-I 16 -g 1 -w 128 --thread-concurrency 5760,"Linux Mint 15 Xfce, APP SDK v2.7, Catalyst 13.4"
+AMD GPU,6750,160,735,1150,,,GUIMiner-scrypt v0.02,aggression 16 worksize 128 gpu_thread_concurrency 4096,
+AMD GPU,"6770, MSI",143,800,1100,,,Reaper v13 Beta 4,aggression 11 gpu_thread_concurrency 3096,
+AMD GPU,6770,200,950,1000,,,cgminer,-I 18 -g 1 -w 256 --thread-concurrency 8192,"Gentoo x64, Catalyst 12.6, SDK 2.7"
+AMD GPU,6770,200,850,1200,,,cgminer,-I 18 -g 1 -w 256 --thread-concurrency 8192,
+AMD GPU,6770,210,950,1300,,,Reaper v13 Beta,aggression 16 gpu_thread_concurrency 3100,
+AMD GPU,"6790, PowerColor",236,840,1050,,150,cgminer 3.3.1,-I 18 -g 1 -w 256 --thread-concurrency 4032,58C
+AMD GPU,6850,216,800,1025,,,Reaper v13 Beta 4,,"Windows 7 x64, Catalyst 12.6, SDK 2.6"
+AMD GPU,"6850, Sapphire",240,850,1000,Y,,cgminer 3.7.0,,"Windows 7, 60C"
+AMD GPU,"6850, HIS",255,885,1000,1.200 N,,bfgminer 3.2.1,-I 19,"Windows 7, Catalyst 13.9"
+AMD GPU,6850,259,925,1025,,,Reaper v13 Beta,aggression 17 threads_per_gpu 2,
+AMD GPU,6850,261,920,1100,,200,cgminer 2.11.4,-I 17 -w 128 --thread-concurrency 6144,
+AMD GPU,6850,271,945,1005,,,Reaper v13 Beta,aggression 17 threads_per_gpu 2 worksize 128,
+AMD GPU,"6850, HIS",275,1050,1050,,200,cgminer 2.11.4,-I 17 -g 2 -w 256 --thread-concurrency 3840,"Windows 7 x64, Catalyst 13.1, SDK 2.7, 66-73C, http://imgur.com/dIsYQDN"
+AMD GPU,"6870, Sapphire",293,900,1050,,,cgminer 3.1.0,-I 15 -w 64 --thread-concurrency 6720,"Ubuntu Server 12.04 LTS x64, Catalyst 12.6, SDK 2.6"
+AMD GPU,"6870, PowerColor",300,900,1150,,165,cgminer 3.0.0,-I 16 -g 1 -w 64 --thread-concurrency 6720,"Ubuntu 12.04 x64, Catalyst 11.1, SDK 2.5, 77-83C"
+AMD GPU,"6870, HIS",311,900,1024,,,cgminer 3.7.2,-I 18 -w 128 -thread-concurrency 5600,"Windows 8.1, 75C"
+AMD GPU,6870,320,900,800,,,cgminer,-I 19 -g 1 -w 256 --thread-concurrency 8192,"Gentoo x64, Catalyst 12.6, SDK 2.7"
+AMD GPU,"6870, MSI",330,950,900,,,cgminer 3.1.0,-I 18 -w 128 --thread-concurrency 5600,"BAMT 1.1, 84C"
+AMD GPU,"6870, 113-687AZNB-10",355,1050,1150,1.250 ?,,cgminer 2.7.5,-I 18 -g 1 -w 64 --thread-concurrency 6720,"Windows 7 x64, Catalyst 12.4, SDK 2.5, 77-83C"
+AMD GPU,"6930, HIS",401,900,1000,1.070 ?,,cgminer 3.1.1,-I 18 -g 1 -w 256 --thread-concurrency 6400,"Windows 7 x64, 62C, Catalyst 13.9, SDK 2.5"
+AMD GPU,6950,390,880,1370,1.095 U,,cgminer 3.7.2,-I 15 -g 1 -w 256 -l 1 --thread-concurrency 6144,"Windows 8.1 x64, 90C, Catalyst 13.11 Beta 9.2"
+AMD GPU,"6950, VisionTek 1GB",425,860,1450,,,cgminer 2.11.4,-I 18 --thread-concurrency 8064,"Stock shaders, 4GB RAM"
+AMD GPU,6950,450,900,1375,,233,cgminer 2.11.4,-I 19 -g 1 -w 256 --thread-concurrency 7040,Windows 7
+AMD GPU,6950,450,800,1250,,,cgminer 3.7.2,#WAARDE!,"Windows 8.1 x64, Catalyst 13.1 beta, SDK 2.9, unlocked shaders"
+AMD GPU,"6950, Club 3D",483,920,1300,1.200 U,,Reaper 13 beta 4.64,,
+AMD GPU,6950,488,910,1125,,,cgminer,-I 18,"Windows 7, 83C, x16-x16 powered risers"
+AMD GPU,"6950, Sapphire",512,945,1350,1.100 ?,380,2.11,-I 19 --shader 1536,"70C, shaders unlocked"
+AMD GPU,6950,522,955,1270,,,Reaper v13 Beta 4,aggression 19 gpu_thread_concurrency 8192,Shaders unlocked
+AMD GPU,"6970, GV-R697OC-2GD",423,900,1375,,,cgminer 2.11.4,-I 15 -g 2 -w 256 --shaders 1564,"67C, Catalyst 13.1, http://img402.imageshack.us/img402/6034/13914411.jpg"
+AMD GPU,"6970, HIS",435,"800, 3400","1250, 0",1.0V U,,cgminer 3.1.0,-I 19 -w 256 --shaders 1536,"Windows 7, 59C, i7-2600k"
+AMD GPU,"6970, reference XFX",475,,,N,,cgminer 3.7.2,-I 19 -g 2 --thread-concurrency 8000,"Xubuntu, 77C, Intel Xeon"
+AMD GPU,"6970, reference",505,930,1450,1.175 U,,cgminer 3.7.0,--thread-concurrency 8128,"Windows 7, 60"
+AMD GPU,6970,512,945,1525,,245,cgminer 2.11.4,,"Windows 7 x86, Catalyst 12.4, SDK 2.7"
+AMD GPU,6990,850,880,5000,,435,Reaper v13 Beta 4,aggression 17 sharethreads 24 gpu_thread_concurrency 8144,
+AMD GPU,7700,40,136,1250,,,cgminer 3.7.2,-I 11,"Windows 7 x64, 70C"
+AMD GPU,"7750, ColaMax",109,800,1150,,,cgminer 3.5.0,-I 11,81C
+AMD GPU,"7750, HD7750-1GD5",144,820,1150,1.025 Y,75,cgminer 3.5.0,-I 14,"OpenSUSE 12.3 x64, 73C"
+AMD GPU,"7750, GV-R775OC-1GI",151,880,1125,,,cgminer 3.1.0,-I 15 -w 64,"Gentoo x64, Catalyst 13.1"
+AMD GPU,"7750, 11202-00-20G",165,950,1200,,55,cgminer 3.6.6,-I 11 -g 2 -w 64 --shaders 512,"Slackware 14, 67C, Catalysts 13.1, SDK 2.7, Semperon 3000, ECS C51G-M754, 1GB RAM"
+AMD GPU,7750,174,1024,1150,,,cgminer,-I 17 -g 1 --thread-concurrency 8000,
+AMD GPU,"7750, 11202-00-20G",180,1015,900,1.056 N,80,cgminer 2.11.0,-I 11 -w 64 --shader 512,"67C, low profile"
+AMD GPU,7770,143,800,1125,,,GUIMiner,-I 18 -w 256 --thread-concurrency 8000,"Windows 7, 76C, Catalyst 13.152, SDK 2.8, Dell mobo, Core i5-2500"
+AMD GPU,"7770 GHz Edition, FX-777A-ZNF4",174,1150,1245,,80,GUIMIner-scrypt v0.04,-I 14 -g 1 -w 256 --thread-concurrency 8000,
+AMD GPU,"7770, HD7770-2GD5",184,1020,1150,,,"GUIMiner-scrypt, cgminer 3.6.0",-I 17 -g 1 -w 256 --thread-concurrency 8000,"Windows 8 x64, Catalyst 13.11"
+AMD GPU,"7770, 100358VXL",187,920,1400,,,cgmier 3.7.2,-I 18 -g 1 -w 256 --thread-concurrency 8000,"Windows 8.1, 61C"
+AMD GPU,"7770, FX-777A-ZN",202,1000,1135,1.200 N,,cgmier 3.7.0,-I 15 --worksize 256 -g 1 --thread-concurrency 8000,"Windows 8.1, 62C, Catalyst 13.9"
+AMD GPU,"7770, H777F1G2M",203,965,1425,1.200 Y,110,GUIMiner-scrypt,-I 18 -w 256 --thread-concurrency 8000,"77C, Catalyst 13.11"
+AMD GPU,"7790, Sapphire",225,830,1500,,,cgminer 3.4.3,-I 17 -g 1 -w 128 --thread-concurrency 8000,"Windows 8, 60C"
+AMD GPU,"7790, H779FT1GD",230,830,1500,Y,,cgminer 3.5.0,-I 20 -w 256 --thread-concurrency 8192,"Litecoin BAMT 1.1, 70C"
+AMD GPU,"7790, HD7790-DC2OC-2GD5",235,918,1500,Y,,cgminer 3.1.0,-I 17 -g 1 -w 128 --thread-concurrency 8000,"Windows 7 x64, 64C, SDK 2.9, ASRock M3A770DE, 1055T @ 3.3GHz, 4GB RAM, HDD"
+AMD GPU,"7790, MSI-R7790-1GD5/OC",252,830,1500,1.150 Y,75,cgminer 3.5.0,-I 17 -g 1 -w 128 --thread-concurrency 8000,"Windows 7, 58C, G41-Combo, E8400, 4GB RAM, MB58203.002 firmware"
+AMD GPU,7790,260,882,1750,,84,"GUIMiner-scrypt, cgminer 3.5.0",-I 18 -g 1 -w 128 --thread-concurrency 8000,
+AMD GPU,"7790, R7790-1GD5/OC",271,918,1820,,88,GUIMiner-scrypt v0.04,-I 18 -g 1 -w 256 --thread-concurrency 8000,73C
+AMD GPU,"7850, Sapphire 2GB",340,1000,1300,1.138 U,,GUIMiner-scrypt v0.04,-I 12 -g 1 -w 256 --thread-concurrency 8192,"Windows 7, 67C"
+AMD GPU,7850,350,1000,1350,,,cgminer 2.10.5,-I 13,
+AMD GPU,7850,350,1000,1300,1.000 ?,,cgminer 2.11.3,-I 17,
+AMD GPU,"7850, HD7850-DC2-2GD5",362,1050,4800,1.135 Y,115,GUIMiner-scrypt v0.04,-I 12 --thread-concurrency 8192,"Windows 8.1 x64, 75C, i5-3570K, 16GB RAM, x16 risers"
+AMD GPU,"7850, HIS 2GB",382,1120,1250,,130,cgminer 2.11.4,-I 17 -w 256 --thread-concurrency 8192,"Windows 7 x64, Catalyst 13.1, Athlon64 X2 4000+ 2.1GHz, RAM 2GB"
+AMD GPU,"7850, ASUS 2GB V2",385,1120,1300,,,cgminer 2.11.4,-I 19 --thread-concurrency 27164,"Windows 7 x64, Catalyst 13.1, A10-5800K 3.8GHz, RAM 8GB"
+AMD GPU,7850. AX7850 2GBD5-DH,404,1250,1350,1.150 U,,GUIMiner-scrypt,-I 19 -g 1 -w 256 --thread-concurrency 12404,"Windows 7, 71C, i5-2500k"
+AMD GPU,7850,411,1200,1365,,,cgminer 2.11.3,-I 19 -g 1 -w 256 --thread-concurrency 16000,
+AMD GPU,"7870 GHz Edition, XFX",300,1000,1200,,,cgminer 3.6.0,-I 12 -g 2 -w 256,"Windows 7 x64, 87C"
+AMD GPU,"7870, AX7870 2GBD5-2DHPPV3E",320,975,1500,,,cgminer,-I 18 --thread-concurrency 16384,80C
+AMD GPU,"7870 GHz Edition, 100354OC-2L",381,810,1450,,,Reaper v13 Beta,sharethreads 20 thread_concurrency 15232,"Windows 7 x64, Catalyst 13.3 Beta, 65C"
+AMD GPU,"7870 GHz Edition, GV-R787OC-2GD",385,1190,1500,,,cgminer 2.11.4,-I 12 -g 2 -w 256 --thread-concurrency 8192,
+AMD GPU,"7870, DC2-2GD5-V2",394,925,1375,0.988 ?,200,cgminer 3.6.0,,"Windows 8.1, 67C, Asus Maximus V Formula, i5-3570k"
+AMD GPU,"7870, H787F2G2M",400,950,1250,1.219 Y,,cgminer 3.6.6,-I 18 -g 1 -w 256 --thread-concurrency 15232,"Windows 7 x64, 68C, Catalyst v13.9, GA-970-UD3, FX-8320 8GB RAM"
+AMD GPU,"7870 GHz Edition, GV-R787OC-2GD",425,1000,1500,1.219 ?,,cgminer 2.11.3,-I 18 -g 1 -w 256 --thread-concurrency 15232,
+AMD GPU,"7870 GHz Edition, GV-R787OC-2GD",470,1139,1500,,,cgminer 3.1.0,,http://img90.imageshack.us/img90/1549/cgminer7870470.jpg
+AMD GPU,"7870, FX-787A-CDFC",375,970,1450,,200,cgminer 2.11.4,-I 17 -g 1 -w 256 --thread-concurrency 14208,Windows 8
+AMD GPU,"7950, AX7950 3GBD5-2DHPP",580,1000,1400,1.090 ?,220,cgminer 3.7.2,-I 18 --thread-concurrency 16384,"Windows x64, 72C, Catalyst 13.11 Beta9.2"
+AMD GPU,"7950, FX-795A-TDBC",617,1050,1575,,,Reaper v13 Beta 4,aggression 20 sharethreads 32 gpu_thread_concurrency 24768,"Windows 7 x64, 83C, Catalyst 13.1"
+AMD GPU,"7950, 11196-02-40G",620,1025,1250,1.090 Y,200,cgminer 3.4.0,-I 20,"68C, SDK 2.8"
+AMD GPU,"7950, R7950 Twin Frozr 3GD5/OC",640,1060,1590,0.964 ?,,cgminer 3.4.1,-I 20 --gpu-powertune 20,"Xubuntu, V27717S firmware"
+AMD GPU,"7950, FX-795A-TDFC",640,1040,1495,1.250 ?,,cgminer,,BAMT
+AMD GPU,"7950, 100352VXSR",644,1135,1480,,238,cgminer 3.4.3,-I 20 -w 256 --thread-concurrency 15236 --gpu-powertune 20,"Windows 7 x64, 62C, Catalyst 13.9, SDK 2.7"
+AMD GPU,"7950, 11196-00",650,1075,1250,0.962 U,,cgminer 3.2.1,-I 20 -w 256 --thread-concurrency 24000,"SMOS, 83C, rack server, 775 Quad"
+AMD GPU,"7950, HD7950-DC2-3GD5-V2",660,1200,1700,1.250 ?,,GUIMiner-scrypt v0.03,-g 1 -w 256 --thread-concurrency 21712,"Windows 8, Catalyst 13.1"
+AMD GPU,"7950, R7950TF3GD50",665,1100,1450,Y,,cgminer 3.7.2,-I 20,"Windows 7, 60C, watercooled"
+AMD GPU,"7950, 100352-2L",670,1080,1500,1.090 U,250,cgminer 3.4.0,-I 20 -g 1 -w 256 --thread-concurrency 24000 --gpu-powertune 20,"BAMT 1.1c, 65C, Gigabyte GA-990FXA-UD3, AMD Sempron 145, 4GB RAM, powered x16-x16 risers, 24920C00.S41 firmware"
+AMD GPU,"7950, GV-R795WF3-3GD",670,1120,1225,1.090 Y,240,cgminer 3.5.0 (mod),-I 19 --thread-concurrency 24000 --gpu-powertune 20,"BAMT, 75C, ASUS M5A99FX PRO R2.0, Sempron 145, 4GB RAM, powered risers, 5xGPU, F43 firmware"
+AMD GPU,"7950, GV-R795WF3-3GD",676,1100,1250,1.090 Y,220,cgminer,-I 20 --gpu-powertune -10,"Debian 7, 70C, 1GB RAM, Sempron 145, video cards purchased in April, F43 firmware"
+AMD GPU,"7950, R7950 Twin Frozr 3GD5/OC",690,1125,1500,1.087 N,230,"GUIMiner-scrypt, cgminer 3.1.0",,"Windows 7, 70C"
+AMD GPU,"7950, 00352-2L",702,1150,1500,,,cgminer 3.1.0,-I 20 -g 1 -w 256 --gpu-powertune 20,"Catalyst 13.4, Xubuntu 13.4, not stable"
+AMD GPU,"7950, GV-R795WF3-3GD",702,1150,1250,1.090 Y,240,cgminer,-I 20 --gpu-powertune -10,"Debian 7, 70C, 1GB RAM, Sempron 145, video cards purchased in April, F43 firmware"
+AMD GPU,"7950, R7950 Twin Frozr 3GD5/OC",702,1140,1250,0.962 ?,,cgminer 3.5.1,-I 20 -w 256 --thread-concurrency 24000 --gpu-powertune 20,"BAMT, 72, v277 firmware may have been modified to unlock voltage"
+AMD GPU,"7950, GV-R795WF3-3GD",715,1175,1250,1.000 U,260,cgminer,-I 20 --gpu-powertune -10,"Debian 7, 70C, 1GB RAM, Sempron 145, video cards purchased in April, F43 modified firmware, http://www.intern3ts.com/stuffs/716kHps.png"
+AMD GPU,"7950, FX-795A-TDKC",725,1200,1650,1.250 ?,,cgminer 3.1.0,-I 20 -g 1 -w 256,"Windows 7, Core 2 Duo, 4GB RAM, 78C with extreme cooling"
+AMD GPU,"7950, GV-R795WF3-3GD",729,1200,1250,1.000 U,260,cgminer,-I 20 --gpu-powertune -10,"Debian 7, 70C, 1GB RAM, Sempron 145, video cards purchased in April, F43 modified firmware, http://www.intern3ts.com/stuffs/730kHps.png"
+AMD GPU,"7950, HD7950DC2T3GD5V2",730,1170,1760,1.156 N,350,cgminer 3.3.1,-I 20 -g 1 -w 256 --thread-concurrency 22400,"Windows 7 x64, 72C, Catalyst 13.6beta2, G1620, 4GB RAM"
+AMD GPU,"7970, FX-797A-TDFC",525,1050,1900,,,cgminer 2.11.4,-I 18 -g 2 -w 256 --shaders 2048 --gpu-powertune 20,
+AMD GPU,"7970, H797QMT3G2M",540,1050,1400,1.170 Y,250,cgminer 3.5.0,-I 12 --thread-concurrency 14336 --gpu-powertune -5,"Ubuntu 13.04 x64, Catalyst 13.4, 51-68C, MSI 790FX-GD70, AMD Phenom II X4 960T, 16GB RAM, 4x GPUs"
+AMD GPU,"7970, 11197-05-40G",620,1200,1700,1.250 Y,,cgminer 3.4.0,-I 13 -w 256 --thread-concurrency 8192,"Windows 7, 79C, i5-2500k"
+AMD GPU,"7970, 100351SR",630,1050,1500,1.150 Y,,cgminer 3.1.0,-I 13 -g 2 --thread-concurrency 8192,"Windows 7, 70C, Catalyst 13.1, SDK 2.8"
+AMD GPU,"7970, 11197-11",632,925,1375,,290,cgminer 3.1.0,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Catalyst 13.5b2, 77.5C, http://i42.tinypic.com/34exdsh.jpg"
+AMD GPU,"7970, HD7970-DC2-3GD5",639,925,1375,,300,cgminer 3.5.0,-I 13 -g 2 -w 256 --thread-concurrency 8192 --gpu-powertune 20,74C
+AMD GPU,"7970, 3GBD5-M2DHV2",640,1125,1575,1.170 Y,230,cgminer 3.4.0,-I 13 -w 256 --thread-concurrency 8192 --gpu-powertune 20,"windows 7, i7-3930K"
+AMD GPU,"7970, GV-R797OC-3GD",650,1000,1375,0.850 Y,350,cgminer 3.5.0,-I 19 --thread-concurrency 25600,F71 firmware
+AMD GPU,"7970, GV-R797OC-3GD",682,1000,1600,,204,cgminer 2.10.4,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Catalyst 12.10, 72C"
+AMD GPU,"7970, Sapphire",700,1000,1500,1.175 ?,,cgminer 3.7.0,,"Windows 8.1, 68c, i7-3770, 8GB RAM, Gigabyte Z77"
+AMD GPU,"7970, GV-R797OC-3GD",710,1025,1750,1.175 U,,cgminer 3.6.0,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 8.1 x64, 75C on water, Catalyst 13.11 b8, ASUS R4E, 3930k, 64GB RAM, F3 firmware"
+AMD GPU,"7970, H797QMC3G2M",710,1050,1500,1.250 Y,250,cgminer 3.5.0,-I 13 --thread-concurrency 14336 --gpu-powertune -5,"Ubuntu 13.04 x64, 68C, Catalyst 13.4, MSI 790FX-GD70, AMD Phenom II X4 960T, 16GB RAM, 4x GPUs"
+AMD GPU,"7970, XFX",710,1050,1600,1.175 Y,,cgminer/BAMT 1.1,-I 20 -g 1 -w 256 --thread-concurrency 40960,"Debian, BAMT, 78C, GREM52 MSI Z77A-G45 Z77, x16-x16 risers, Celeron G1620"
+AMD GPU,"7970, MATRIX-HD7970-3GD5",710,1050,1500,,,cgminer 3.6.0,-I 13 -g 2 -w 256 --thread-concurrency 8192,i7-3820
+AMD GPU,"7970, GV-R797TO-3GD",720,1040,1495,,,cgminer 3.1.1,-w 256 -g 2 -i 13 --shaders 2048 --thread-concurrency 8192,Windows 7 x64
+AMD GPU,"7970, 11197-03-40G",730,1090,1695,,275,cgminer 3.1.0,-I 20 -g 1 -w 256 --thread-concurrency 40960 --gpu-powertune 20,BAMT
+AMD GPU,"7970, GV-R797OC-3GD",735,1060,1500,1.170 Y,,cgminer 2.11.4,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Xubuntu 12.4 x64, 69C, 3.2.0-52-generic, i3-3240 3.40GHz, 8GB RAM"
+AMD GPU,"7970, R7970 Lightning BE",734,1050,1700,,,cgminer 3.1.0,-I 13 -g 2 -w 256 --thread-concurrency 8192,http://imgur.com/bUicPyN
+AMD GPU,"7970, GV-R797OC-3GD",750,1085,1500,1.170 ?,,cgminer 2.11.2,-I 13 -g 2 -w 256 --shaders 2048,"70C, Catalyst 13.1"
+AMD GPU,"7970, GV-R797OC-3GD",751,1082,1498,1.170 Y,,cgminer 3.1.1,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 7 x64, 68C, Catalyst 13.11 Beta9.2, i5-3570k @ 4.5GHz, MSI z77a G45, 8GB RAM, F72 firmware"
+AMD GPU,"7970, AX7970 3GBD5-2DHV3",757,1090,1500,,325,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 7, 70C, i7-4930K"
+AMD GPU,"7970, GV-R7970C-3GD, Rev 2.1",760,1090,1500,1.170 Y,,cgminer 3.1.0,-I 13 -g 2 -w 256 --thread-concurrency 8192 --gpu-powertune 20,78.0C
+AMD GPU,"7970, GV-R797TO-3GD",760,1100,1500,1.256 Y,,cgminer 3.5.0,-I 13 -g 2 -w 256 --thread-concurrency 8192 --gpu-powertune 20,"Windows 7 SP1, 75C, x16-x16 risers, F62 firmware"
+AMD GPU,"7970, GV-R797TO-3GD",760,1085,1500,1.100 U,270,cgminer 3.4.0,-I 20 -g 1 -w 256 --thread-concurrency 24000,"BAMT 1.1c, 63C, Gigabyte GA-990FXA-UD3, AMD Sempron 145, 4GB RAM, powered x16-x16 risers, R797TO3D.F62 firmware"
+AMD GPU,"7970, 21197-00",770,4000,1850,1.051 N,,cgminer 3.6.3,,"Windows 7, 55C, Catalyst 13.6, ASUS Crosshair V Formula, FX 8350 @ 4.0GHz, 2x 7970 reference, watercooled"
+AMD GPU,"7970, R7970 Lightning BE",778,1150,1840,U,,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Ubuntu 13.10 x64, 95C, Catalyst 13.1, ASRock Fatal1ty X79 Pro, i7-4820K"
+AMD GPU,"7970, 11197-01-40G",780,1125,1875,1.170 N,270,cgminer 3.7.2,-I 13 -g 2 --thread-concurrency 8192,"Arch Linux, 73C, Catalyst 13.11, MSI K8N SLI Platinum, Athlon 64 3500+, 1GB RAM"
+AMD GPU,"7990, CGAX-7999",1125,1075,1700,,,cgminer 2.11.4,-I 13 --thread-concurrency 14336,"84C, Catalyst 13.1, https://imageshack.us/scaled/large/607/proof7990.png"
+AMD GPU,"7990, CGAX-7999",1150,1090,1725,,,cgminer 3.1.0,-I 13 -g 1 -W 256 --thread-concurrency 8192,"87C, Catalyst 13.1, http://img24.imageshack.us/img24/5343/imagetfc.jpg"
+AMD GPU,"7990, GV-R799D5-6GD-B",1250,980,1350,1.050 N,,cgminer 3.4.0,-I 13 -g 2 -w 256 --thread-concurrency 14336 --gpu-powertune 20,"Windows 8, 70-80C, i5-2500k, ASUS P8P67"
+AMD GPU,"7990, 102-C47601-00-AT",1325,1025,1500,1.075 N,,cgminer 3.4.0,-I 20 -g 1 --thread-concurrency 24000 --gpu-powertune 20,"Windows 7 2061, 66-79C, 6Z77-V DELUXE, 3770K, 16GB RAM (M379B5273DH0-YK0), 2 x 7990, CoolerMaster Sniper case, AX1200 PSU, 660-670kH/s per GPU, 113-C47601M0-101 firmware"
+AMD GPU,"7990, R7990-6GD5",1344,965,1360,1.050 U,470,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 7, 87C, Celeron G530"
+AMD GPU,"7990, AX7990 6GBD5-M4DH",1363,,,N,490,cgminer 3.7.2,,"500GB HDD, RAMdrive, 80C, i7-4770K, 16GB RAM, 2x7990 @ 2721kH/s"
+AMD GPU,"7990, HD7990-6GD5",1518,1100,1480,,,cgminer 3.2.2,-I 13 -g 2 -w 256 --thread-concurrency 8192 --gpu-powertune 10,"60C, Catalyst 13.9, FX-8320, 3x7990, watercooled"
+AMD GPU,8570,86,780,900,1.15,,cgminer 3.7,,Windows 8.1
+AMD GPU,"R7 260X, R7 260X 2GD5 OC",255,830,1800,,,cgminer 3.7.2,-I 17,
+AMD GPU,"R9 270, GV-R927OC-2GD rev.1.0",450,1125,1500,,,cgminer 2.11.4,-I 17 -g 1 --thread-concurrency 12000,"63C, Catalyst 13.11, SDK 2.8, 945G7MD-8KS2H, Celeron 3.33GHz"
+AMD GPU,"R9 270X, R9270X-DC2T-2GD5",417,980,1500,1.207 Y,,cgminer 3.7.2,-I 19 -g 1 -w 256 --thread-concurrency 16384,"Windows 7 x64, 71C, Catalyst 13.11 beta9.2, Phenom II x3 720, MA790X-UD4P, 4GB RAM"
+AMD GPU,"R9 270X, 100364L",420,1000,1350,,,cgminer 3.5.0,-I 19 -w 256 --thread-concurrency 16000,"Windows 7 X64, 68C, Athlon II X4 631 @ 2.66 GHz, 4GB RAM, ASUS F1A55-M Le"
+AMD GPU,"R9 270X, R9 270X GAMING 2G",430,1050,1500,1.163 ?,180,cgminer 3.7.2,-I 18 -g 1 -w 256 --thread-concurrency 15232 --gpu-powertune 20,"71C, Catalyst 13.11 LINUX Beta V9.4, FX-4100, M5A87, 16GB RAM"
+AMD GPU,"R9 270X, R9270XD52GXOCV2",460,1080,1500,1.206,150,cgminer 3.7.2,-I 19 -g 1 -w 256 --thread-concurrency 15232,"69C@45%, BAMT v1.2, 2GB RAM, Kill-A-Watt"
+AMD GPU,"R9 270X, GV-R927XOC-2GD",470,1115,1500,1.206 Y,185,cgminer 3.7.2,-I 19 -g 1 -w 512 --thread-concurrency 15232,"Windows 7 x64, 61C, Catalyst 13.11_betav9.4, GA-MA74GMT-S2 Rev. 1.4, Phenom II X 2 550, 4GB RAM"
+AMD GPU,"R9 270X, XFX Double D R9-270X-CDFC",472,1140,1500,1.206 ?,,cgminer 3.7.2,-I 19 -g 1 -w 256 --thread-concurrency 14208 --gpu_powertune 20,"Windows 7 x64, 76C, Catalyst 13.11 Beta V9.5, i5 2500k @ 4.4GHz, 4GB RAM"
+AMD GPU,"R9 270X, 100364L",476,1120,1500,Y,230,cgminer 3.7.2,-I 19 -w 256 --thread-concurrency 16k-21k,"windows 7 x64, Catalyst 13.11 betav9.2, SDK 2.7, 4GB RAM"
+AMD GPU,"R9 280X, H280XQM3G2M",570,1100,1500,1.200 Y,320,cgminer 3.7.2,-I 13 -g2 -w 256 --thread-concurrency 8192,"Windows 7 x64, 72C, Catalyst 13.9"
+AMD GPU,"R9 280X, 100363L",589,1020,1500,1.100 N,82,GUIMiner-scrypt v0.04,--thread-concurrency 14336,"70C, 015.039 firmware"
+AMD GPU,"R9 280X, 100363VXSR",602,1130,1550,1.100 U,,cgminer 3.7.2,-I 13 --thread-concurrency 8192,"Windows 7 x64, 84C, P5E, Q9650, 6GB RAM, 2x280X"
+AMD GPU,"R9 280X, H280XQMT3G2M",670,1050,1500,,,GUIMiner-scrypt v0.04,-I 20 -g 1 -w 256 --thread-concurrency 20992,"Windows 7, 78C, i7-3930k, ASUS X79 Sabertooth, Samsung 840 Evo 120GB, Silverstone Strider Gold 750W, 8GB RAM"
+AMD GPU,"R9 280X, GV-R928XOC-3GD",690,1100,1500,1.150 Y,,cgminer 3.7.2,-I 13 -g 2 -w 256 --shaders 2048,"83C, F31 firmware"
+AMD GPU,"R9 280X, GV-R928XOC-3GD",690,1000,1500,1.250 N,250,cgminer 3.5.0,-I 13 -g 2 -w 256 --shaders 2048,"Windows 7 x64, 76C, EP35DS3, Core 2 Quad 9550, 8GB RAM, F11 firmware"
+AMD GPU,"R9 280X, GV-R928XOC-3GD",695,1010,1495,1.200 N,,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192 --gpu-powertune 20,"Windows 7 x64, 65C, ASUS P8P67 Pro, i7-2600k @ 3.4GHz, 8GB RAM"
+AMD GPU,"R9 280X, 100363L",710,1020,1500,,,cgminer 3.7.2,-I 13 -g 2 -w 256 --shaders 2048,"Windows 7 x64, 4GB RAM"
+AMD GPU,"R9 280X, R9-280X-TDFD",716,1020,1500,1.171 U,,cgminer 3.5.0,-I 13 -g 2 -w 256 --thread-concurrency 8192 --gpu-powertune 20,"Windows 7 x64, 70C, i5-3570k, b75mu3+, 8GM RAM"
+AMD GPU,R9 280X 11221-02-40G,720,1040,1500,1.256 Y,300,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 7 x64, 82c, Catalyst 13.11 BETA, 16GB RAM, i5-2600K"
+AMD GPU,"R9 280X, DC2T-3GD5",720,1080,1500,1.200 ?,,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 7 x64, 80C, Catalyst 13.11 beta 9.4, Phenom II X4 965 BE, ASUS Sabertooth 990FX R2.0, 16GB RAM, SSD"
+AMD GPU,"R9 280X, G57-V101135-Y47 MSI",725,1080,1500,1.130 N,250,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192 --gpu-powertune 20,"Windows 7, 71C, Catalyst 13.11 9.2beta, i5 3570k, Gigabyte Z77x D3H"
+AMD GPU,"R9 280X, 100363L",730,1085,1700,Y,270,cgminer 3.7.2,-I 13 -g 2 -w 512 --thread-concurrency 8192 --gpu-powertune 20,"Windows 7 x64, 70C, Catalyst 13.11_betav9.4, FM2A88M Extreme 4+, A8-6600K, 8GB RAM"
+AMD GPU,"R9 280X, 100363VXSR",730,1070,1550,,,cgminer 3.7.2,-I 13 -g 2 -w 256 --shaders 2048,"015.040.000.001 Windows 7 x64, 60C, C2D E6600, nVidia 680i motherboard, 4GB RAM"
+AMD GPU,"R9 280X, 11221-02-40G",732,1080,1500,,250,cgminer 3.6.1,-I 13 -g 2 -w 256 --thread-concurrency 11200 --gpu-powertune -20,"Windows 7 X64, 71C, Catalyst Beta 13.11 x64, GA-990FXA-UD3, Sempron 190, 4GB RAM, U41 firmware"
+AMD GPU,"R9 280X, H280XQM3G2M",733,1050,1500,1.080 N,,cgminer 3.1.1,-g 2 -w 256 -I 13 --thread-concurrency=8192 --gpu-engine=1050 --gpu-memclock=1500 --auto-fan --gpu-powertune=1,"Ubuntu, 80C, x1 powered"
+AMD GPU,R9 280X 11221-00-40G,740,1080,1500,1.200 Y,330,cgminer 3.7.2,--thread-concurrency 11200,"Windows 7 x64, 72C, Catalyst 13.11beta9.4, SDK 2.9, ASROCK 970 Extreme4, Sempron 145, 8GB RAM, SSD"
+AMD GPU,"R9 280X, 11221-02-40G",745,1050,1500,,,cgminer 3.7.2,-I 13 -g 2 --thread-concurrency 8192,"Xubuntu 13.10, 63C, 3.11.0-12-generic, ASRock 970 Extreme4, Sempron 145, 8GB RAM, SanDisk ReadyCache 32GB"
+AMD GPU,"R9 280X, 11221-02-40G",751,1050,1500,1.065 N,,GUIMiner-scrypt,-I 13 -g 2 -w 256 --thread-concurrency 11200,"Windows7 x64, 72C, ASUS P5B, Core 2 Duo 6300 @ 3.2 GHz, 8GB RAM"
+AMD GPU,"R9 280X, 11221-00-20G",752,1070,1500,1.200 N,300,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 7, 71C, i5-4670K, 8GB RAM, x16-x16 risers"
+AMD GPU,"R9 280X, GV-R928XOC-3GD",766,1100,1500,1.150 Y,300,cgminer 3.5.0,-I 13 -g 2 -w 256 --shaders 2048,"Windows 8.1, 73C, MSI-G45"
+AMD GPU,"R9 280X, MATRIX-R9280X-P-3GD5",780,1150,1800,,,cgminer 3.7.2,,"Windows 7 x64, 83C"
+AMD GPU,"R9 280X, MATRIX-R9280X-P-3GD5",815,1160,1800,1.256 ?,,cgminer 3.2.2,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 7, 64C, Catalyst 13.11 beta, FX-8350, GA-990XA-UD3, 4GB RAM, x1-x1 risers"
+AMD GPU,"R9 280X, GV-R928XOC-3GD",740,1100,1500,1.150 N,300,cgminer 3.5.0,-I 13 -g 2 -w 256 --shaders 2048,"Windows 7, 78C, R928XO3D.F11 firmware"
+AMD GPU,"R9 280X, H280XQM3G2M",740,1080,1500,,220,cgminer 3.7.2,-I 13 -g 2 -w 256 --thread-concurrency 8192,"Windows 7, 59C, FX-8350, Sabertooth 990FX"
+AMD GPU,"R9 280X, 100363VXSR",760,1080,1500,1.130 U,250,GUIMiner-scrypt v0.02,-I 13 -g 2 --thread-concurrency 8192,"Windows 7, 69C, Catalyst 13.11 beta"
+AMD GPU,"R9 280X, 100363VXSR",760,1080,1500,1.256 Y,300,bfgminer 3.0.99,-I 13 -g 2 -w 256 --shaders 2048,"7systems IT Ltd custom Lubuntu build, 62C"
+AMD GPU,"R9 280X, R9280XGAMING3G",760,1100,1500,1.200 ?,,cgminer 3.7.2,-g 2 -w 256 --thread-concurrency 24000,"Xubuntu 13.10, 76C"
+AMD GPU,"R9 280X, R9280X-DC2-3GD5",770,1100,,1.250 N,280,GUIMiner-scrypt,-I 13 -g 2 -w 256 --thread-concurrency 8192,80C
+AMD GPU,"R9 290, 100362SR",748,947,1250,Y,,cgminer 3.7.2,-I 20 -w 512 -lookup-gap 2 -g 1 --gpu-fan 50,"windows 8.1, 60C, Catalyst 13.11 9.4beta, ASUS Sabertooth 990x rev 1, FX-8320"
+AMD GPU,"R9 290, 100362SR",770,947,1250,Y,300,cgminer 3.6.6,-I 20,77C
+AMD GPU,"R9 290, 21227-00-40G",804,947,1250,,,GUIMiner-scrypt alpha,I,"Windows 7 x64, 95c, ASUS P9-X79, Corsair 850X, i7"
+AMD GPU,"R9 290, GV-R929D5-4GD-B",817,1000,1500,1.100 Y,233,cgminer 3.7.2,-I 20 --thread-concurrency 20480 --gpu-threads 2,"Windows 7x64, 70C, Catalyst 13.11b, Athlon A4 4000, 4GB RAM, 530W system, 2xR9 290"
+AMD GPU,"R9 290, 100362SR",818,1042,1500,1.125 Y,220,cgminer 3.7.2,-I 20 -g 1 -w 256 --thread-concurrency 35960,"Windows 7 x64, 71C, i7-2600k, watercooled"
+AMD GPU,"R9 290, GV-R929D5-4GD-B",830,1000,1250,N,300,cgminer 3.6.0,-I 19 -g 1 -w 512 --thread-concurrency 32765,"Windows 7, 92C, Catalyst 13.11 beta, FX-8320, 8GB RAM, Corsair TX750W, 290X firmware"
+AMD GPU,"R9 290, 100362SR",880,1000,1500,Y,395,cgminer 3.7.2,-I 20 -g 1 -w 512 --thread-concurrency 24550 --gpu-powertune 20,"Windows 8.1, 77C, Catalyst 13.11 Beta v9.4, MSI Z77A-GD65, x1-x16 risers, L41 firmware"
+AMD GPU,"R9 290, 100362SR",882,1000,1499,Y,,cgminer 3.7.2,-I 20 -g20 -thread-concurrency 24000,"Debian 8 Jessie, AMD Catalyst 13.11 Beta, 4GB RAM, Proof: http://rockymountainminers.com/proof/290-001.png"
+AMD GPU,"R9 290X, H290XF4GD",730,1000,1250,U,300,cgminer 3.7.2,-I 20,"Windows 7 x64, 77C, FX-8350, GA-990FXA-UD3, Corsair CX 750M, X16 risers"
+AMD GPU,"R9 290X, 100361SR",830,875,1375,,,cgminer 3.7.0,-I 20 -w 512 --thread-concurrency 24000 -g 2,"Windows 7 64, Catalyst 13.11beta3, 51C, Watercooled"
+AMD GPU,"R9 290X, 100361SR",880,929,1500,,,cgminer 3.7.0,,93C
+AMD GPU,"R9 290X, 100361BF4SR",882,950,1500,1.250 Y,470,cgminer 3.7.2,-I 20 -g 2,"Windows 7 x64, Catalyst 13.11 beta 9.2, SDK 2.9, Asus P5N-T Deluxe, Core 2 Duo Q6600"
+AMD GPU,"R9 290X, R9-290X-ENFC",884,920,1500,Y,325,cgminer 3.7.2,-I 20 -g 1 -w 512 --thread-concurrency 32765,"Windows 7, 82C, Catalyst 13.11 Beta 9.2, i5-4670K, ASUS Z87-PRO, Corsair HX-1000, waterblock drops power usage to 271 watts"
+AMD GPU,"R9 290X, 100361BF4SR",980,1025,1500,Y,,cgminer 3.7.2,-I 20 -w 256 --thread-concurrency 32765,"Debian 8 Jessie, 65-66C, Catalyst 13.11 Beta 9.4, A6-6400K, ASUS A88X-PRO, Water-cooled system, Proof: http://rockymountainminers.com/proof/290x-001.png"
+AMD GPU,"R9 290X, 100361SR",990,900,1350,,300,bfgminer 3.6.0,-I 20 -g 1 --thread-concurrency 32765,"Windows 8.1, 90C"
+AMD GPU,"R9 290X, TRI-X OC 100361-2SR",1002,1025,1500,,385,sgminer 4.0.0,-I 23 -w 256 --thread-concurrency 32765,"Debian 7 Wheezy, 79C, Catalyst 13.11 Beta 9.95, Proof: http://rockymountainminers.com/proof/prospector1000.png"
+NVIDIA GPU,"8500 GT, Zotac",2.37,459,800,,,cudaMiner 2013-11-01,#NAAM?,Gentoo Linux
+NVIDIA GPU,"8800 GT 512MB, EVGA",12.25,600,900,,,cudaMiner 2013-12-07 x64,-H 1 (L27x3),"Windows 7 x64, 62C, x2 4400+, A8N32-SLI Deluxe, 3GB RAM, G92, 112 core, 256-bit bus"
+NVIDIA GPU,9500 GT,7.5,,,,,cudaMiner 2013-04-04,,
+NVIDIA GPU,9600 GT,22.5,650,900,1.100 Y,,cudaMiner 2013-10-10,-H 1 -d 0 -i 1 -l S8x4 -C 1 -m 1,"Windows XP, 61C, G94 core"
+NVIDIA GPU,"9800 GT, ELSA",41.5,685,980,1.000 ?,,cudaMiner-2013-10-10,-l auto -d 0,"Windows XP, E2220"
+NVIDIA GPU,9800 GTX,2,,,,,BFGMiner,,
+NVIDIA GPU,9800 GTX,19,,,,,cudaMiner 2013-04-06,,
+NVIDIA GPU,GTX 260,43,,,,,cudaMiner 2013-04-06,-l 54x3,http://img600.imageshack.us/img600/7276/autotune.png
+NVIDIA GPU,GT 440,18.5,810,900,,,cudaMiner 2013-04-06,,
+NVIDIA GPU,GT 440,36,900,1000,,,cudaMiner 2013-04-12,-l 12x2,
+NVIDIA GPU,GT 520,9,,,,,cudaMiner 2013-04-04,,https://bitcointalk.org/index.php?topic=167229.msg1744139#msg1744139
+NVIDIA GPU,GT 520,20,930,810,,25,cudaMiner 2013-04-17,-C 2 -i 0,http://i.imgur.com/zSDPP1a.png
+NVIDIA GPU,"GT 630, Zotac",37,912,740,Y,,cudaMiner,,"Windows 7 x64, 63C, 331.65 driver, HP XW8400, 16GB RAM, dual Xeon E5440"
+NVIDIA GPU,GT 640,40,,,,,cudaMiner 2013-04-22,-l 82x2 -C 2 -i 0,"4GB DDR3, 128-bit bus"
+NVIDIA GPU,GTX 260 Core 216,46,,,,,cudaMiner 2013-04-10,#NAAM?,
+NVIDIA GPU,GTX 275,94,633,1134,,,cudaMiner 2013-04-10,-i 0 -d 0,proof image
+NVIDIA GPU,GTX 285,43,680,1250,,,Reaper v13 Beta,aggression 14,
+NVIDIA GPU,GTS 450,34,783,1804,,106,cgminer 2.11.4,-I 12,Windows 7 x86
+NVIDIA GPU,GTS 450,76,958,1704,,,cudaMiner 2013-04-14,-l 43x4,
+NVIDIA GPU,GTS 450,82,940,1900,1.10 N,,cudaMiner 2013-11-20 x64,-l F24x8 -i 0 -C 2 -H 1,"Windows 7 x64, 72C"
+NVIDIA GPU,"GTX 460, Point of View 768MB",98,1350,1800,,,cudaminer 2013-10-10,-i 0,"Windows 7 x64, Athlon 64 X2 6000"
+NVIDIA GPU,GTX 460,110,780,1800,,,cudaMiner 4-30-13,,
+NVIDIA GPU,"GTX 460, EVGA 10DE-0E22",120,830,1800,,,cudaMiner 2013-07-13,-d 0 -i 0 -l 28x8 -C 2,"Windows 7 x64, 75C, driver 320.18"
+NVIDIA GPU,"GTX 465, Gigabyte",120,608,802,0.887 ?,,cudaminer-2013-11-15,cudaMiner --no-autotune -C 1,windows 7 x64
+NVIDIA GPU,GTX 470,150,830,851,,,cudaMiner 2013-04-09,,http://imm.io/12st5
+NVIDIA GPU,"GTX 470, EVGA",200,800,900,,,cudaMiner-2013-11-15,-H 1 -i 0,"Windows 7 x64, 94C, G41, Q6600, 8GB RAM"
+NVIDIA GPU,"GTX 480, EVGA",81,700,1100,1.050 U,250,GUIMiner-scrypt,-i 14 w-256,"Windows 7 x64, 83C"
+NVIDIA GPU,"GTX 480, ASUS",245,775,2000,1.075 ?,,cudaMiner-2013-11-20,-t 1 -H 1 -d 0 -i 0 -l F14x16 -C 1,"Windows 7 x64, 57C , 310.90 driver, watercooled"
+NVIDIA GPU,GTX 550 Ti,44,911,,,,Reaper v13 Beta 4,aggression 14 worksize 160 sharethreads 8 gpu_thread_concurrency 2047,
+NVIDIA GPU,"GTX 550 Ti, N550GTX-Ti-MD1GD5",71,925,2150,Y,,cudaMiner-2013-11-01,auto,"Windows 7 x64, 79C, 331.65, Intel G840"
+NVIDIA GPU,GTX 555,74,736,1914,,,cudaMiner 2013-04-14,-l 12x6,
+NVIDIA GPU,"GTX 560, MSI",116,,2002,,,cudaMiner 2013-10-10,-i auto -h 1,"Windows XP x64, 69C, Q6600"
+NVIDIA GPU,"GTX 560, EVGA 2GB",128,975,2004,,,cudaMiner 2013-04-12,-l 168x2,
+NVIDIA GPU,"GTX 560, GV-N56GOC-1GI",130,950,1800,,,cudaMiner 2013-04-14,-l 14x8,
+NVIDIA GPU,"GTX 560, GV-N56GOC-1GI",130,950,830,,,cudaMiner 2013-04-14,-l 14x8,
+NVIDIA GPU,GTX 560 SE,93,830,1914,,,cudaMiner 2013-04-12,,
+NVIDIA GPU,"GTX 550 Ti, EVGA",78,1000,2200,1.100 ?,,cudaMiner 2013-11-01,-i 1 -l F16x8,"72C, i7-3770K"
+NVIDIA GPU,"GTX 560 Ti SuperClocked, EVGA 1GB",144,900,2106,,,cudaMiner 2013-04-14,-l 32x4,
+NVIDIA GPU,"GTX 560 Ti, GV-N560OC-1GI",148,900,2004,1.04,,cudaMiner 2013-11-20,-i 0 -l F16x8,"Windows 7 x64, 74C, i3 2100 @ 3.10GHz, 8GB RAM"
+NVIDIA GPU,"GTX 560 Ti, N560GTX-TI Hawk",152,950,2100,1.300 U,,cudaMiner-2013-11-15,f64x2,"Windows 7 x64, 68C, driver 331.65"
+NVIDIA GPU,"GTX 560 Ti, N560GTX-Ti Twin Frozr II/OC",152,880,2100,,,cudaMiner,F16x8 -i 0,"Mac OS X 10.8.3/Unibeast, 84C, ASUS Sabertooth X79, i7-3820"
+NVIDIA GPU,GTX 560 Ti,155,980,2400,,,cudaMiner 2013-10-10,-i 0,
+NVIDIA GPU,"GTX 560 Ti, OEM 1GB",185,865,1900,,,cudaMiner 2013-04-22,-l 22x8,
+NVIDIA GPU,"GTX 560 Ti 448 Cores LE, Zotac",218,,,,,cudaMiner 2013-04-22,-l 28x8 -C 2,
+NVIDIA GPU,"GTX 560 Ti 448 Cores LE, NE5X564010DA-1101F",228,732,1900,,210,cudaMiner x64 custom,-C 1 -i 0 -H 1 -l F14x16,"Windows 7 x64, 0.988v, 74C, Gigabyte G41MT-S2P, Core2Quad Q6600, 4x2GB RAM"
+NVIDIA GPU,"GTX 560 Ti 448 Cores LE, Zotac",257,860,2100,Y,,cudaMiner 2013-10-10,-t 1 -H 1 -d 0 -i 0 -l F14x16 -C 1,"Windows 8 x64, 70C"
+NVIDIA GPU,"GTX 560 Ti 448 Cores LE, NE5X564010DA-1101F",260,861,2160,,210,cudaMiner x64 custom,-C 1 -i 0 -H 1 -l F14x16,"Windows 7 x64, 78C, Gigabyte G41MT-S2P, Core2Quad Q6600, 4x2GB RAM"
+NVIDIA GPU,"GTX 570, EVGA",140,910,2100,1.025 ?,,cudaMiner 2013-04-04,autotune,"Windows 7 x64, 70C, i7-2600K @ 3.8, 16GB RAM, bitcointalk post"
+NVIDIA GPU,"GTX 570, Zotac",190,732,950,,,cudaMiner 2013-11-20 x86,-H 1,"Windows 7, 88C"
+NVIDIA GPU,"GTX 570, ENGTX570 DCII/2DIS/1280MD5",201,742,1900,1.000 N,220,cudaMiner 2013-11-20,auto-tuning,"Windows 7, 65C, ASUS Maximus IV, i7-2600K @ 3.4GHz"
+NVIDIA GPU,"GTX 570, Gigabyte",220,780,1900,,,cudaMiner 2013-12-07,-C 1,"Linux Mint 16 x64, 319.32 driver"
+NVIDIA GPU,"GTX 570, MSI",245,900,2000,1.05 ?,,cudaMiner,,
+NVIDIA GPU,"GTX 570, EVGA",250,850,2100,1.025,,cudaMiner-2013-11-20,-t 1 -H 1 -d 0 -i 0 -l F14x16 -C 1,"Windows 7 x64, 310.90 driver, 70.10.17.00.74 (P1261-0005)"
+NVIDIA GPU,GTX 580,230,911,2138,,,cudaMiner 2013-04-10,=l 32x7,http://i.imgur.com/6mZN0b8.png
+NVIDIA GPU,"GTX 580, Asus",245,945,4300,,,cudaMiner 2013-11-20,Autotune,"Windows 8.1, 75C"
+NVIDIA GPU,"GTX 580, MSI Twin Frozr OC",250,930,2300,,,cudaMiner 2013-04-10,,
+NVIDIA GPU,"GTX 580, Gigabyte",250,795,2004,,,mvlddmkm 9.18.13.2723,-l 32x7,
+NVIDIA GPU,"GTX 590, MSI",210,607,3414,,,cudaMiner-2013-11-20,-H 1 -d 0 -i 0 -l F16x16 -C -m 1,i7-3930k
+NVIDIA GPU,"GT 640, GT640-DCSL-2GD3",25,1046,1982,,65,"GUIMiner-scrypt 0.03, cgminer",-I 14 -w 128,Modified 7770 preset
+NVIDIA GPU,"GT 640, GT-640-1GD5-L",56,,,,,cudaMiner 2013-10-10,-i 0 -C 2 -l K41x4,Windows 7 x64
+NVIDIA GPU,"GTX 650, ASUS",64,1300,5500,1.137 U,,cudaMiner 2013-11-20,d 0 -i 0 -l K12x16 -C 1 -H 1,Windows 7 x86
+NVIDIA GPU,GTX 650 Ti,79,960,5400,,,cudaMiner 2013-10-10,-H 1 -d 0 -i 1 -l K8x16 -C 0,Windows 8
+NVIDIA GPU,"GTX 650 Ti Boost, N650ti-1GD5/OC BE",99,1097,2506,1.175 ?,,cudaMiner-2013-11-20,-d 1 -l K8x16,"Windows 8 x64, 57C, driver 331.58"
+NVIDIA GPU,"GTX 660, GV-N660OC-2GD",120,1137,3000,1.175 ?,,cudaMiner 10.10,-i -C 2 -H 1 -l 80x2,"Windows 7, 54C, 955BE"
+NVIDIA GPU,"GTX 660, ZT-60901-10M",128,3000,550,,,cudaMiner 2013-07-13,-l K10x16 -C 2 -i 0 -m 1,"72C, v327 driver"
+NVIDIA GPU,"GTX 660, GTX660-DC2-2GD5",130,1033,1502,,,cudaMiner 2013-10-10,-no-autotune -i 0 -C 2 -l K80x2,Windows 7 x64
+NVIDIA GPU,"GTX 660, DC2O-2GD5",153,1155,1527,1.175 V,,cudaMiner 2013-10-10,-i 0 -l K10x16 -C 2 -m 1,Windows 7 x64
+NVIDIA GPU,"GTX 660 Ti SuperClocked, EVGA",145,980,6008,,,cudaMiner-2013-11-01,-l K290x2 -C 2 -D -i 0,"Windows 7 x64, v331.58 driver, ASRock Extreme4, i5 3.3GHz, 8GB RAM"
+NVIDIA GPU,"GTX 660 Ti SuperClocked+, EVGA 3GB",150,1059,6008,,,cudaMiner 2013-04-10,,
+NVIDIA GPU,"GTX 660 Ti, TI-DC2T-2GD5",175,1189,6008,1.162 ?,,cudaMiner 2013-11-01,default,"Windows 7 x64, 72C"
+NVIDIA GPU,"GTX 660 Ti, Gigabyte",185,1163,3005,,,cudaMiner 2013.11.20,-t 8 -d 0 -i 0 -C 2 -H 1,"Windows 7 x64, 67C, 331.82 driver, i7-2600k, 8GB RAM"
+NVIDIA GPU,"GTX 660 Ti SuperClocked, EVGA",191,1181,1161,,,cudaMiner-2013-11-01,-H 1 -i 0 -C 2,"Windows 7 x64, 331.58 driver, ASRock Extreme4, i5 @ 3.3GHz, 8GB RAM, sometimes K14x16 is better"
+NVIDIA GPU,"GTX 660 Ti, C660-2SDN-E5GSX",210,1306,7000,1.212 Y,160,cudaMiner-2013-11-15,,"Windows 7 x64, 65C, driver 331.82, i5-2500K"
+NVIDIA GPU,"GTX 660 Ti, C660-2SDN-E5GSX",216,1306,7000,1.212 Y,160,cudaMiner-2013-11-20,k112x2,"Windows 7 x64, 65C, driver 331.82, i5-2500K"
+NVIDIA GPU,"GTX 660 Ti, C660-2SDN-E5GSX",220,1306,7000,1.212 Y,160,cudaMiner-2013-11-20,-C1 -1 K112x2 -i 0,"Windows 7 x64, 67C, driver 331.82, i5-2500K"
+NVIDIA GPU,"GTX 660 Ti, C660-2SDN-E5GSX",223,1320,7000,1.212 Y,160,cudaMiner-2013-11-20,-C1 -1 K112x2 -i 0,"Windows 7 x64, 67C, driver 331.82, i5-2500K"
+NVIDIA GPU,GTX 670,80,1006,,,,Reaper v13 Beta 4,aggression 15 worksize 576 sharethreads 8 gpu_thread_concurrency 8192,
+NVIDIA GPU,GTX 670,106,1084,3004,,,cudaMiner 2013-04-06,,
+NVIDIA GPU,GTX 670,115,1176,3104,,,cudaMiner 2013-04-06,,
+NVIDIA GPU,"GTX 670, PNY",163,1129,3004,,,cudaMiner 2013-04-29,-C 2 -D -i 0 -l 56x5,"80C, http://imgur.com/n9V7Ca7"
+NVIDIA GPU,GTX 670,190,1097,3004,,,cudaMiner 2013-04-30,,
+NVIDIA GPU,"GTX 670, EVGA",202,1267,3151,1.125 ?,,cudaMiner 2.3.2,auto,"Windows 7 x64, 70C. launch configuration K110x2"
+NVIDIA GPU,GTX 680,202,1071,6008,,,cudaMiner 2013-11-15,-H 1 -C 2 -m 1 -d 0 -l K16x16 -i 0,
+NVIDIA GPU,GTX 680,207,1240,6400,,,cudaMiner 2013-04-14,-l 233x2 -i 0,
+NVIDIA GPU,"GTX 680, Gigabyte WF3",207,1072,6008,,,cudaMiner-2013-11-20,-H 1 -C 2 -m 1 -d 0 -l K16x16 -i 0,"Windows 7 x64, 56C, 331.65 driver, Asrock Z77, i5-2500k @ 4.5"
+NVIDIA GPU,"GTX 760, 02G-P4-2761-KR",138,980,6008,,170,cudaMiner 2013-10-10,none,"Windows 7, i5 3450, 16GB RAM"
+NVIDIA GPU,"GTX 760, Gigabyte",160,1240,1500,,,cudaMiner-2013-11-01,auto,
+NVIDIA GPU,"GTX 760, ASUS",167,1200,7000,1.200v ?,,cudaMiner 2013-11-15,-i 1 -C 2 -H 1,Windows 7
+NVIDIA GPU,"GTX 770, ZT-70303-10P",123,705,880,0.875 N,52,cudaminer-2013-07-13,-i 0 -C 0 -m 0 -l S112x2,"Windows 7 x64, 40C"
+NVIDIA GPU,"GTX 770, Gigabyte",209,1137,1753,1.187 U,145,cudaMiner 2013-11-01,,"Windows 8, 67C, GK104, A2 firmware"
+NVIDIA GPU,"GTX 770, Gigabyte",218,1137,1753,,,cudaMiner 2013-11-01,-D -H 1 -m 1 -d 0 -i 1 -l K16x16 -C 2,
+NVIDIA GPU,"GTX 770 SC, 02G-P4-2774-KR EVGA",240,1280,3870,1.200 Y,,cudaMiner 2013-11-20,-H 1 -i 1 -l K16x16 -C 1,"Windows 7, 36C, 331.65 driver, watercooled, i7-4770k"
+NVIDIA GPU,"GTX 780, PNY",320,860,1500,1.062 N,,cudaMiner 2013-11-20,auto,"Windows 8 x64, 84C, i5 3570k, x16-x16 risers"
+NVIDIA GPU,"GTX 780 Ti, GV-N78TD5-3GD-B",430,,,,250,cudaMiner 2013-11-20,-i 0 -H 1 -lT30x16,"Windows 7 x64, 92C"
+NVIDIA GPU,"GTX TITAN, ZT-70101-10P",320,993,1502,1.16 U,,cudaMiner 2013-11-20,-d 0 -i 0 -C 2 -l K14x18,"Windows 8.1 x64, 80C, 331.82 driver, i7-2600K @ 4.6GHz, MSI Z77 Mpower"
+NVIDIA GPU,"GTX TITAN, ZT-70101-10P",366,1150,1502,1.075 U,,cudaMiner 2013-11-20,-d 0 -i 0 -C 2 -l K14x18,"Windows 8.1 x64, 73C, 331.82 driver, i7-2600K @ 4.6GHz, MSI Z77 Mpower"
+NVIDIA GPU,Tesla C2075,162,575,1150,,130,cudaMiner 2013-07-13,-l 112x8 -i 0 -C 0,6GB
+NVIDIA GPU,Tesla K40c,188,732,2600,N,140,cudaMiner,"-H 1 -l T444x1,T444x1 -C 2,2","Windows 7 x64, 67C, v331.40 driver in TCC mode"
+NVIDIA GPU,"Quadro 5000, PNY",115,513,750,,,cudaMiner 2013.11.20,,"89C, Xeon E5620"
+NVIDIA GPU,Quadro 6000,180,573,1494,N,,cudaminder 2013-10-10,"-H 0 -l F28x16,F28x16 -C 2,2","CentOS 6.4 x64, 88C, v325.15 driver"
+NVIDIA GPU,Quadro K6000 and EVGA GTX Titan,485,797,3004,,163,cudaMiner 2013-10-10,-H 1 -l auto -C 2,"RHEL 6.4 x64 (Santiago), 80C"
+Laptop / Mobile / Integrated,AMD 6620G,50,444,800,,,GUIMiner-scrypt 0.02,-I 15 -g 1 -w 256 --thread-concurrency 3200,"Windows 8 x64, 70C, Catalyst 13.9, SDK 2.8.1"
+Laptop / Mobile / Integrated,AMD 7520G,29,686,800,,,cgminer 2.11.3,-I 9 -g 1 -w 64 --shaders 192,"Windows 7 x64, 75C, Samsung NP355V5C-A05UK"
+Laptop / Mobile / Integrated,AMD 7640G,42,655,512,,,cgminer 3.7.2,-I 10 -g 1 -w 64 --thread-concurrency 2048,"Windows 7, 65C, A8-4500M @ 1.9GHz, BR42547 firmware"
+Laptop / Mobile / Integrated,AMD 7660G,49,686,686,,,cgminer 2.11.4,-I 15 -g 1 -w 64 --thread-concurrency 2096,
+Laptop / Mobile / Integrated,Intel HD 4000,13,850,1600,,12.9,"GUIMiner-scrypt alpha 0.04, cgminer 3.7.2",-I 13 -g 1 -w 64 --thread-concurrency 6144,"Windows 8 x64, 85C, ASUS Taichi21, loads one CPU thread to 100% @ 1700MHz"
+Laptop / Mobile / Integrated,Intel HD 4000,17-18,,1600,,,"GUIMiner-scrypt 0.03, Reaper",aggression 10 worksize 64 gpu_thread_concurrency 4000,"Windows 7 x64, i7-3770"
+Laptop / Mobile / Integrated,AMD 6310,12,500,533,0.875,,cgminer 3.6.0,,"windows 7 x64, 83C, Tosiba Satellite C660D-193"
+Laptop / Mobile / Integrated,AMD 6320,14,600,1333,,,cgminer 2.11.3,-I 12 -w 64,"E-450, Shared memory"
+Laptop / Mobile / Integrated,AMD 6530D,47,800,933,1.15,,cgminer 3.0.1,-I16 -g 1 -w 256,
+Laptop / Mobile / Integrated,AMD 7660D,45,800,933,,,cgminer 3.3.1,--thread-concurrency 1536 -I 12,
+Laptop / Mobile / Integrated,AMD 6470M,30,750,800,,,cgminer 3.6.0,-I 9,35kH/s @ i20
+Laptop / Mobile / Integrated,AMD 6470M,45.5,950,1050,1.100 ?,,cgminer 3.1.0,-I 18 --thread-concurrency 6192,"Linux, 76C, EliteBook 8560p"
+Laptop / Mobile / Integrated,AMD 6750M,6.785,600,900,,,MacMiner 1.4.20,Automatic,"Mavericks, MacBookPro8,2"
+Laptop / Mobile / Integrated,AMD 6770M,70,750,216,,,cgminer 3.7.2,-I 11 -g 2 -w 128 --thread-concurrency 2400,"Windows 7 x64, 88C"
+Laptop / Mobile / Integrated,AMD 6770M,100,2500,8000,,,GUIMiner,,MS-7576
+Laptop / Mobile / Integrated,"AMD 6770M, 1002-6740",110,815,919,1.054 N,,cgminer 3.5.1,-I 15 -w 256 --thread-concurrency 3200,"Windows 7 x64, 70C, i7 2720QM, Dell 08V9YG, 8GB RAM, BR038688.001 firmware"
+Laptop / Mobile / Integrated,AMD 6990M,360,,,,,cgminer,"-I 11,16 -g 1 -w 128 --thread-concurrency 5600",Windows 7 x64. M18X
+Laptop / Mobile / Integrated,AMD 7600M,82,600,900,1,,cgminer 3.5.0,-I 18 -w 256 --thread-concurrency 8192,"Windows 8.1, 76C, HP Pavilion G6"
+Laptop / Mobile / Integrated,"AMD 7670M, HP",81,800,4000,N,,cgminer 3.7.2,-I 15 -w 256 --thread-concurrency 3200,"Windows 7, 67C"
+Laptop / Mobile / Integrated,AMD 7730M,90,575,900,,,cgminer 3.7.2,-I 13,
+Laptop / Mobile / Integrated,AMD 7850M,112,675,1000,0.950 ?,,cgminer 3.7.2,-I 13 --thread-concurrency 8192,"Windows 7 x64, Catalyst 13.1, 95-98°C"
+Laptop / Mobile / Integrated,AMD 7970M,305,850,1200,1.00 Y,,GUIMiner,-I 18,"Windows 8.1 x64, 90C, 3610QM, Clevo P150"
+Laptop / Mobile / Integrated,AMD 7970M,360,900,1500,,,GUIMiner-scrypt,-I 16 -w 256 --thread-concurrency 8192,"68C, i7"
+Laptop / Mobile / Integrated,"AMD 8670M, HP",52,975,1000,1.125 N,,cgminer 3.0.0,-I 16,"Windows 7, 56C, HM76, Intel 2020M @ 2.4GHz, HP Pavilion 15"
+Laptop / Mobile / Integrated,AMD 8870M,200,900,1250,1.000 ?,30,cgminer 3.7.2,-I 18 -g 1 -w 256 --thread-concurrency 10240,"Windows 8 x64, 71C, atiumdag 9.3.5.0"
+Laptop / Mobile / Integrated,AMD 8970M,250,950,1250,Y,,GUIMiner-scrypt,-I 12 --thread-concurrency 4096,"Windows 8 x64, 88C, Catalyst 13.10, MSI GX70 laptop"
+Laptop / Mobile / Integrated,NVIDIA Quadro NVS 140M,2,,,,,cgminer,,
+Laptop / Mobile / Integrated,NVIDIA Quadro 2000,50,625,652,,,cudaMiner,-l 43x4,
+Laptop / Mobile / Integrated,"NVIDIA Quadro 4000, PNY",80,950,1404,,,cudaMiner 2013.11.20,#NAAM?,
+Laptop / Mobile / Integrated,NVIDIA 8600M GT,5,,,,,cudaMiner 4-22-13,,"Windows Vista, Dell 1520"
+Laptop / Mobile / Integrated,NVIDIA 9600M GT,9.6,,,,,cudaMiner 2013-04-14,,Ubuntu 12.4 x86
+Laptop / Mobile / Integrated,NVIDIA GT 240M,15.4,550,790,0.900 ?,,cudaMiner,-l 54x2,"Windows 7 x64, GT216"
+Laptop / Mobile / Integrated,NVIDIA GTX 460M,30,675,1250,,,Reaper v13 Beta,aggression 15,
+Laptop / Mobile / Integrated,NVIDIA GTX 460M,55,,,,,cudaMiner 4-22-13,,Sager NP8130
+Laptop / Mobile / Integrated,NVIDIA GT 540M,26,672,900,0.980 ?,,cudaMiner 2013-11-01,-H 1 -d 0 -i 1 -l auto -C 2,"Windows 8, 95C, Asus N53SV"
+Laptop / Mobile / Integrated,NVIDIA GT 540M,27,1344,900,,,cudaMiner,-d 0 -i 1 -l auto -C 0 -m 1,"Windows 7 x64, 75C, driver 327.23"
+Laptop / Mobile / Integrated,NVIDIA GT 540M,28.83,672,1600,,,cudaminer 2013-11-15,-d 0 -i 1 -C 2 -l K4x16 -H 1,"Windows 8.1 x64, driver 331.82"
+Laptop / Mobile / Integrated,"NVIDIA GT 555M, DDR3",24.5,590,1800,,,cudaMiner 11-20-13,,"Windows 8.1 x64, 331.65 driver, Dell XPS 17 L702X"
+Laptop / Mobile / Integrated,NVIDIA GT 620M,27,625,1500,,,cudaMiner 2013-10-10,#NAAM?,Windows 8.1
+Laptop / Mobile / Integrated,NVIDIA GT 630M,26.38,800,800,,,cudaMiner 2013-11-20 (alpha),#NAAM?,DELL embedded
+Laptop / Mobile / Integrated,NVIDIA GT 650M,34,950,900,,,cudaMiner 2013-04-30,-l 6x6,
+Laptop / Mobile / Integrated,NVIDIA GT 650M,38,735,1000,,,cudaMiner 2013-11-20,-l K32x2 -i 0 -C 2 -m 1 -H 1,"OS X 10.9, CUDA driver 5.5.28, MacBookPro9,1"
+Laptop / Mobile / Integrated,NVIDIA GT 650M,39,745,2048,,,cudaMiner 2013-11-15,--no-autotune -l K4x24 -H 1 -C 2,"Windows 7 x64, driver 9.18.13.3165, Dell Inspiron, i5-3230M @ 2.6GHz, 8GB RAM"
+Laptop / Mobile / Integrated,NVIDIA GTX 660M,36,405,2500,"0,912 Y",,cudaMiner-2013-11-01,-H 1,"Windows 7 x64, 65C, Asus G75V"
+Laptop / Mobile / Integrated,NVIDIA GTX 680M,124,1000,1000,0.900 ?,,cudaMiner,-i 0 -C 2 -m 1 -l 14x8,"Windows 7, 72C, i7-3940xm, Sager"
+Laptop / Mobile / Integrated,NVIDIA GTX 680M,150.3,1111,1050,0.986 ?,,cudaMiner 2013-11-01,14x16,"windows 7, 72C, Clevo"
+Laptop / Mobile / Integrated,NVIDIA GTX 780M,150,888,2747,1.000 Y,,cudaMiner 2013-11-15,,Clevo
+Laptop / Mobile / Integrated,NVIDIA GTX 780M,248,888,2747,1.000 ?,,cudaMiner 2014-01-20,-H 1 -d 0 -i 0 -l Y16x16,Mac OS X 10.9.1
+,,,,,,,,,
+AMD CPU,Geode LX 800,0.12,,0.5,1,,Ubuntu 11.04 x86,,
+AMD CPU,Fusion E-350,2.4,,1.6,2,18 (TDP),Debian 6,,
+AMD CPU,Athlon 64 X2 5600+,6.07,,2.8,2,89 (TDP),Gentoo x64,,
+AMD CPU,Sempron 145,10.65,,2.8,2,45 (TDP),Gentoo x64,,
+AMD CPU,Athlon II X3 425,~9.5,,2.7,4,95 (TDP),Windows 7 x86,"-t 4 -v -g no, Unlocked core",
+AMD CPU,Phenom II X4 940 BE,20,,3,4,125 (TDP),"Debian 6, 2.6.32-5-amd64",nice 19,
+AMD CPU,Phenom II X4 955 BE,22,,3.2,4,125 (TDP),Windows 7 x64,,
+AMD CPU,Phenom II X4 955 BE,27.85,,3.9,4,125 (TDP),Windows 7 x64,,
+AMD CPU,Phenom II X4 965 BE,~25,,4,4,125 (TDP),Windows 7 x64,low priority,
+AMD CPU,Phenom II X6 1045T,30.4,,2.7,6,95 (TDP),Windows 7 x64,--s 6 --threads 6,
+AMD CPU,Phenom II X6 1055T,34.6,,3.1,6,125 (TDP),Windows 7 x64,,
+AMD CPU,Phenom II X6 1055T,40.1,,3.5,6,95 (TDP),Gentoo,,
+AMD CPU,FX-6300,50.6,,4.5,6,,Windows 7 x64,,
+AMD CPU,FX-8120,46,,3.25,8,,Windows 7 x64,,
+AMD CPU,FX-8120,65,,4.5,4M/8T,125 (TDP),Windows 7 x64,modifed with XOP instructions,
+AMD CPU,FX-8150,56,,3.6,4M/8T,125 (TDP),Ubuntu 11.10,,
+AMD CPU,FX-8350,41,,4,8,125 (TDP),Ubuntu 12.10,,
+AMD CPU,FX 8350,57,,4,,,,#NAAM?,
+AMD CPU,FX-8350,65,,4,8,125 (TDP),Windows 7 x64,,
+Intel CPU,Pentium M 740,0.8,,1.73,1,,Windows XP x86,,
+Intel CPU,Pentium M,1.23,,1.6,1,,Gentoo x86,,
+Intel CPU,Atom N270,2.57,,1.66,1,5.5 (TDP),Ubuntu x86,,
+Intel CPU,Atom N270,2.78,,1.8,,,Windows XP,"-D, 58C",
+Intel CPU,Atom N450,2.61,,1.66,1,5.5 (TDP),Ubuntu x64,,
+Intel CPU,Atom N2600,4.88,,1.06,,,Windows 7 SP1,#NAAM?,
+Intel CPU,Atom N2800,5.81,,1.87,2 (4 threads),6.5 (TDP),Xubuntu 12.04 x64,with no desktop just command line,
+Intel CPU,Celeron 440,4,,2,1,35 (TDP),Ubuntu 12.04 x64,,
+Intel CPU,Pentium Dual T3400,8.5,,2.16,2,35 (TDP),Ubuntu 12.04 x64,,
+Intel CPU,Core 2 Duo MacBook Pro 5.2 (2009),11,,2.8,,,OSX 10.8.5 x64,,
+Intel CPU,Core 2 Duo T5500,7.28,,1.66,2,,Gentoo x64,,
+Intel CPU,Core 2 Duo T6570,9.52,,2.1,,,Windows 7 SP1,,
+Intel CPU,Core 2 Duo T7250,5,,2,2,,Ubuntu 8,running under wine,
+Intel CPU,Core 2 Duo T7250,6,,2,,,Windows 7 x86,Dell Latitude D530,
+Intel CPU,Core 2 Duo T7500,6.5,,2.2,2,,Windows Vista x86,,
+Intel CPU,Core 2 Duo T9500,17.76,,2.6,2,35 (TDP),Windows 7 x64,-t 2,
+Intel CPU,Core 2 Duo E2200,9.2,,2.9,2,,Windows XP x86,-t 2,
+Intel CPU,Core 2 Duo E4300,3.25,,1.8,,,Windows 9 x64,--threads 2,
+Intel CPU,Core 2 Duo E6600,10.45,,2.4,2,,Windows 7 x64,,
+Intel CPU,Core 2 Duo E7300,7,,2.7,2,92,Windows XP x86,idle priority,
+Intel CPU,Core 2 Duo E7500,13.1,,2.93,2,,Windows 7 x64,,
+Intel CPU,Core 2 Quad Q6600,9.68,,2.4,4,105 (TDP),Debian sid x64,"-t 4, ~398% usage",
+Intel CPU,Core 2 Quad Q8400,21.6,,2.66,4,,Windows 7 x64,,
+Intel CPU,Core 2 Quad Q9550,27.5,,2.83,4,,Windows 7 x64,,
+Intel CPU,Core 2 Quad Q9550,32.2,,3.4,4,,Windows 7 x64,,
+Intel CPU,Core 2 Extreme QX9775,29.2,,3.2,4,350,Windows 7 x64,power draw is for dual cpu,
+Intel CPU,Core i3-450,15,,2.9,,,,,
+Intel CPU,Core i3-540,15.4,,3.06,2 (4 HT),,Windows 7 x64,0,
+Intel CPU,Core i3-2100,19,,3.1,2 (4 HT),29,Windows 7 x64,#VERW!,
+Intel CPU,Core i3-2120,21.5,,3.3,2 (4 HT),65 (TDP),Windows 7 x64,"-t4, 61C with stock cooler",
+Intel CPU,Core i3-2130,23,,3.4,2 (4 HT),65 (TDP),Windows Server 2008 x64,0,
+Intel CPU,Core i5-520M,12,,2.4,,,Slackware64 14.0,-t 4 -r 6,
+Intel CPU,Core i5-650,17.18,,3.2,2 (4 HT),,Fedora 18 x64,,
+Intel CPU,Core i5-750,30,,3.3,4,96 (TDP),Windows 8 x64,,
+Intel CPU,Core i5-2467M,12,,1.6,4,,Windows 7 x64,,
+Intel CPU,Core i5-2400S,32.8,,2.5,4,,Mint 13,,
+Intel CPU,Core i5-2500T,28,,2.4,4,45 (TDP),Ubuntu 11.10,--,
+Intel CPU,Core i5-2500K,31,,5,4,103,Windows 7 x64,low priority,
+Intel CPU,Core i5-2500K,48,,4.9,4,90,Windows 8 x64,low priority,
+Intel CPU,Core i5-3470,43,,3.2,4,77 (TDP),Ubuntu 12.10,--,
+Intel CPU,Core i5-3570K,55,,4.5,4,83,Windows 7 x64,low priority,
+Intel CPU,Core i7-740QM,16,,1.73,4 (8 HT),,Windows 7 x64,--,
+Intel CPU,Core i7-860,25,,2.8,4 (8 HT),153,Gentoo x64,"CFLAGS=""-O3 -msse2""",
+Intel CPU,Core i7-870,35.4,,3.4,4 (8 HT),,Windows 7 x64,0,
+Intel CPU,Core i7-920,37,,2.67,4 (8 HT),,Windows 7 x64,,
+Intel CPU,Core i7-920,41,,4,4 (8 HT),,Windows 7 x64,,
+Intel CPU,Core i7-2600,47.15,,3.4,4 (8 HT),,Ubuntu 11.10,,
+Intel CPU,Core i7-2600K,49,,4.6,4 (8 HT),,Windows 7 x64,normal priority,
+Intel CPU,Core i7-2700K,50,,3.9,4 (8 HT),80,Windows 7 x64,,
+Intel CPU,Core i7-3630QM,39,,3.29,4 (8 HT),49,Windows 7 x64,,
+Intel CPU,Core i7-3770,60,,4.38,4 (8 HT),,Windows 7 x64,"bclck 107 mhz, Multiplier 41",
+Intel CPU,Core i7-3930K,98,,4.5,6 (12 HT),200,Windows 7 x64,"-t 11, Last thread used for GPU Mining",
+Intel CPU,Core i7-3960X,101,,4.29,6 (12 HT),,Windows 7 x64,,
+Intel CPU,Core i7-2630QM,16,,2,4 (8 HT),50,Windows 7 x64,-t 6,
+Intel CPU,Core i7-2630QM,21,,2,,,Windows 7 x64,#NAAM?,
+Intel CPU,Core i7-2760QM,38,,2.4,4 (8 HT),,Ubuntu 11.10 x64,"CFLAGS=""-m64 -O3""",
+Intel CPU,Core i7-3720QM,37,,2.6,4 (8 HT),45 (TDP),Windows 7 x64,,
+Intel CPU,Core i7-3720QM,42,,2.6,4 (8 HT),,Windows 8 x64,,
+Intel CPU,Core i7-4770,80,,3.4,4,84,Windows 7 x64,"-t 4, 70C",
+Intel CPU,Core i7-4770,93,,3.4,4 (8 HT),84 (TDP),Windows 8.1 x64,,
+Intel CPU,Core i7-4770,95,,3.4,4 (8 HT),84 (TDP),Debian 7,,
+Intel CPU,Xeon 5160,17,,3,,,,,
+Intel CPU,Xeon 5160,20.79,,3,,,Windows 7 x64,"Dual CPU, Supermicro X7DAL-E",
+Intel CPU,Xeon L3426,19.36,,1.87,4 (8 HT),45 (TDP),Ubuntu x64,,
+Intel CPU,Xeon E5405,18.8,,2,4,,Ubuntu x64,,
+Intel CPU,Xeon X5450,22,,3,4,120 (TDP),Ubuntu Server 10.04.3 LTS x64,nice 19,
+Intel CPU,Xeon E5504,42,,2,2x4,,Gentoo x64,"Dual CPU, -t16",
+Intel CPU,Xeon E5620,26.4,,2.4,4 (8 HT),,Ubuntu x64,,
+Intel CPU,Xeon E3-1220,40.5,,3.1,4 (1 HT),80 (TDP),Ubuntu x64,,
+Intel CPU,Xeon E3-1230,44.4,,3.2,4 (8 HT),80 (TDP),Debian 6,,
+Intel CPU,Xeon E5-1620,50.18,,3.6,,,,,
+Intel CPU,Xeon E5-1650,64.61,,3.2,6 (12 HT),130 (TDP),Ubuntu x64,,
+Intel CPU,Xeon E5-2620,93.91,,2,,,Gentoo Linux,"Dual CPU, 6017R-NTF, DDR3-1333MHz",
+Intel CPU,Xeon E5-2630L,41,,2,6 (12 HT),60 (TDP),Debian x64,,
+Intel CPU,Xeon E5-2650,129.3,,2,,200,Windows Server 2012,"Dual CPU, hyperthreading, 32 total logical cores",
+Other,MIPS32 BCM6368[1],0.16,,400,200,,"CFLAGS=""-O3 -mips32""","OpenWRT Barrier Breaker r38364, Comtrend VR-3025un, running the 2 BMIPS4350 cores; 0.08 kilohash/s per core; kernel 3.10.13",
+Other,PowerMac G5 DP 2.3,8.5,,2300,2,285,"CFLAGS=""-O3 -mcpu=970 -fstrict-aliasing""",Gentoo Linux x64,
+Other,PlayStation3,38,,3200,"1 (2 Hyper), 6 SPU",129,SPU code compiled with spu-elf-gcc 4.6.2,"Gentoo Linux x86, FAT 80GB, FW 3.15",
+Other,ARM 1176JZ(F)-S,0.19,,412,1,,,"Darwin 10, iPhone 3G",
+Other,ARM 1176JZF-S,0.5,,1000,1,3.5,,"Raspbian, Raspberry Pi (Model B)",
+Other,ARM Cortex-A8,0.62,,800,1,,"CFLAGS=""-O3 -mfpu=neon""",Ubuntu 10.10,
+Other,ARM Cortex-A8 (L2=512KiB),0.99,,1000,1,,"CFLAGS=""-O3 -mfpu=neon""","Android 2.2, Samsung GT-P1000",
+Other,ARM Cortex-A9,2.39,,1200,2,,"CFLAGS=""-O3 -mfpu=neon""","Debian 7 armhf, Samsung Galaxy S II",
+Other,ARM Cortex-A9 (L2=1MiB),2.78,,1000,4,,"CFLAGS=""-O2""","Linaro Ubuntu LIB-12.09.6A, Freescale i.MX6 Quad, Sabre-Lite Board",
+Other,ARM Cortex-A9 (L2=1MiB),3.52,,1000,4,,"CFLAGS=""-O3 -mfpu=neon""","Linaro Ubuntu LIB-12.09.6A, Freescale i.MX6 Quad, Sabre-Lite Board, 70C",
+Other,ARM Cortex-A9,4.72,,1400,4,6,"CFLAGS=""-O3 -mfpu=neon""","Gentoo armhf, ODROID-X (undervolted)",
+Other,ARM Cortex-A9,2.98,,1500,2,6,"CFLAGS=""-O3 -mpfu=neon""","QNX BB10 10.1, Dev Alpha C",
+Other,ARM Cortex-A15,3.81,,1700,2,,"CFLAGS=""-O3 -mfpu=neon""","Gentoo armhf, Samsung Chromebook XE303C12",
+Other,ARM Cortex-A15,4.09,,1700,2,15,"CFLAGS=""-O3 -mfpu=neon-vfpv4""","ChrUbuntu 12.04, Samsung Chromebook XE303C12",
+Other,Qualcomm Krait,4.03,,1500,2,,"CFLAGS=""-O3 -mfpu=neon""","Android 4.0.3, HTC One X",
+Other,Qualcomm Krait,3.98,,1500,2,6,"CFLAGS=""-O3 -mfpu=neon""","QNX BB10 10.0.9, Verizon Z10",
+Other,Qualcomm Krait APQ8064,7.2,,1500,4,,,"Android 4.1.2, Xiaomi Mi2, Neon, http://i.imgur.com/GGFqCI0.png",
+Other,Sun UltraSPARC-II,0.17,,450,1,,"CFLAGS=""-m64 -mcpu=v9 -xO5""",Solaris 10,
+Other,Fujitsu SPARC64-VII,8.96,,2400,4 (8 SMT),,"CFLAGS=""-m64 -mcpu=v9 -xO5""",Solaris 10,
+Other,Oracle UltraSPARC T2,2.48,,1415,8 (64 SMT),123,"CFLAGS=""-m64 -mcpu=v9 -xO5""",Solaris 10,
+Other,Oracle UltraSPARC T4,11.87,,2850,8 (64 SMT),,"CFLAGS=""-xtarget=t4 -m64 -xO5""",Solaris 11,
+Other,IBM Power 7,16.4,,3100,8,,"CFLAGS=""-maix64 -O3""","AIX 6.1, 2.05 kH/s per CPU core",
+Other,Amazon High-CPU Extra Large Instance,38,,,8,,"CFLAGS=""-O3""",Ubuntu 12.04.1,
