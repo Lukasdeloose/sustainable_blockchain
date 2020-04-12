@@ -123,7 +123,7 @@ except:
     print("Something wrong with specified directory. Exception- ", sys.exc_info()) 
 
 
-file = 'data_analysis/data/mineable_100_' + date.today().strftime("%m-%d-%Y") + '.csv'
+file = 'data_analysis/data/hist/mineable_100_' + date.today().strftime("%m-%d-%Y") + '.csv'
 
 result.to_csv(file)
 
