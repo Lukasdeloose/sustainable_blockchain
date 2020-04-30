@@ -1,6 +1,8 @@
 name,price
 ASICminer 8 Nano 44Th,6454
 ASICminer 8 Nano Pro,6417
+Bitfury Tardis,3770
+Bitmain Antminer S11 (20.5Th),759
 Bitmain Antminer S17 (53Th),1759
 Bitmain Antminer S17 (56Th),1759
 Bitmain Antminer S17 Pro (50Th),2503
@@ -11,15 +13,21 @@ Bitmain Antminer T17 (40Th),1110
 Bitmain Antminer T17+,1999
 Bitmain Antminer T17e,1665
 Canaan AvalonMiner 1047,1382
+Canaan AvalonMiner 1066,821
+Ebang Ebit E11,1900
 Ebang Ebit E11+,2494
 Ebang Ebit E11++,1900
 Ebang Ebit E12,1680.45
 Ebang Ebit E12+,2273.87
+Holic H22,1900
+Holic H28,1900
+Innosilicon T2 Turbo+ 32T,2200
 Innosilicon T3,2781.6
 Innosilicon T3 39T,2781.6
 Innosilicon T3 43T,2781.6
 Innosilicon T3+,2906.7
 Innosilicon T3+ 52T,2906.7
+MicroBT Whatsminer M10,1554.74
 MicroBT Whatsminer M10S,2558
 MicroBT Whatsminer M20S,2316
 MicroBT Whatsminer M21,820
