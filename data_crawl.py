@@ -64,8 +64,8 @@ whattomine_asic = pd.json_normalize(whattomine_asic['coins']).set_index(clean_na
 whattomine_asic['block_time'] = pd.to_numeric(whattomine_asic['block_time'])
 whattomine_asic['nethash'] = pd.to_numeric(whattomine_asic['nethash'])
 # Drop some columns
-whattomine_asic = whattomine_asic[['tag','algorithm', 'block_time', 'difficulty', 'nethash', 'block_reward', 'exchange_rate', 'exchange_rate_curr']]
-
+whattomine_asic = whattomine_asic[['tag','algorithm', 'block_time', 'difficulty24', 'nethash', 'block_reward24', 'exchange_rate24', 'exchange_rate_curr']]
+whattomine_asic = whattomine_asic.rename(columns={'difficulty24':'difficulty','block_reward24':'block_reward', 'exchange_rate24': 'exchange_rate'})
 
 # ### GPU
 url = 'https://whattomine.com/coins.json'
@@ -78,7 +78,8 @@ whattomine_gpu = pd.json_normalize(whattomine_gpu['coins']).set_index(clean_name
 whattomine_gpu['block_time'] = pd.to_numeric(whattomine_gpu['block_time'])
 whattomine_gpu['nethash'] = pd.to_numeric(whattomine_gpu['nethash'])
 # Drop some columns
-whattomine_gpu = whattomine_gpu[['tag','algorithm', 'block_time', 'difficulty', 'nethash', 'block_reward', 'exchange_rate', 'exchange_rate_curr']]
+whattomine_gpu = whattomine_gpu[['tag','algorithm', 'block_time', 'difficulty24', 'nethash', 'block_reward24', 'exchange_rate24', 'exchange_rate_curr']]
+whattomine_gpu = whattomine_gpu.rename(columns={'difficulty24':'difficulty','block_reward24':'block_reward', 'exchange_rate24': 'exchange_rate'})
 
 
 # ## CoinWarz
