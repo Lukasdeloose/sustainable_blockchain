@@ -114,9 +114,11 @@ whattomine = whattomine.rename(columns={'nethash':'nethash_scraped'})
 result = mineable_100.join(whattomine, how="left")
 
 for coin in coinwarz.index:
-    if coin not in whattomine.index.values:
-        if coin in result.index:
+    if coin in result.index:
+        if coin not in whattomine.index.values:
             result.loc[coin, ['tag','algorithm','block_time','difficulty','nethash_scraped']] = coinwarz.loc[coin]
+        else:
+            result.loc[coin, 'block_time'] = coinwarz.loc[coin, 'block_time']
 check_missing(result)
 try:
 	os.chdir(r"C:\Users\Admin\Documents\Burgie\2e_Master\Thesis\sustainable_blockchain")
