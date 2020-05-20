@@ -1,10 +1,4 @@
-﻿Miner_name,Date of release,UNIX_date_of_release,Hashing power (Th/s),Power (W),Efficiency_J_Gh,Qty
-Worst CPU,12.2008,1230000000,,,100000,1000
-Best CPU,12.2009,1260000000,,,10000,1000
-Worst GPU,7.201,1280000000,,,10000,1000
-Best GPU,11.201,1290000000,,,1000,1000
-FPGA,7.2011,1310000000,,,100,1000
-early ASICS,2.2013,1360000000,,,10,1000
+Miner_name,Date of release,UNIX_date_of_release,Hashing power (Th/s),Power (W),Efficiency_J_Gh,Qty
 Bitmain Antminer S3,7.2014,1404172800,0,366,0.76569,20000
 Bitmain Antminer S5,12.2014,1417392000,1,590,0.51082,20000
 Bitmain Antminer S7,9.2015,1441065600,5,"1,293",0.27336,129610
